@@ -23,5 +23,5 @@ Goal: собрать как можно больше очков
 
 > Mood: 
 
-Схема настроения по ссылке: 
+![Mood](https://github.com/hebgehogg/NeonGame/blob/main/photos/Mood.png)
 
