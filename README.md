@@ -9,8 +9,7 @@
 
 > Concept: 
 
-Platforms: Windows
-
+Platforms: Windows  
 Technologies: Unreal Engine 4
 
 Languages:  английский
