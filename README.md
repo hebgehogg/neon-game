@@ -24,7 +24,7 @@ Goal: собрать как можно больше очков
 
 > Mood: 
 
-![Mood](https://github.com/hebgehogg/NeonGame/blob/main/photos/Mood.png)
+![Mood](https://github.com/hebgehogg/NeonGame/blob/main/photos/Visual%20references.jpg)
 
 
 > Game Character: 
@@ -43,3 +43,5 @@ Goal: собрать как можно больше очков
 
 
 > Gameplay map: 
+
+![Mood](https://github.com/hebgehogg/NeonGame/blob/main/photos/Gameplay%20map.jpg)
