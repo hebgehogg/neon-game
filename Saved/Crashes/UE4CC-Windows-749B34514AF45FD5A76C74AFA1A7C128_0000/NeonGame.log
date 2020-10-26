@@ -1,0 +1,1040 @@
+﻿Log file open, 10/26/20 23:47:55
+LogInit: Display: Running engine for game: NeonGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.264455
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=Bal4ss -epicuserid=4d2cdfc7bd7e47a497f8cfb3687e0368 -epiclocale=ru
+LogInit: Base Directory: D:/Epic Games/Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Engine.ini]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Engine.ini]
+[2020.10.26-18.47.55:895][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Engine.ini]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Engine.ini]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.26-18.47.55:895][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.26-18.47.55:896][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.26-18.47.55:896][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.26-18.47.55:896][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.26-18.47.55:896][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.26-18.47.55:896][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.26-18.47.55:896][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.26-18.47.55:896][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Engine.ini]
+[2020.10.26-18.47.55:896][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Engine.ini]
+[2020.10.26-18.47.55:898][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-18.47.55:898][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.26-18.47.55:898][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.26-18.47.55:898][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-18.47.55:898][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.26-18.47.55:898][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-18.47.55:898][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.26-18.47.55:898][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.26-18.47.55:898][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.26-18.47.55:898][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.26-18.47.55:898][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.26-18.47.55:898][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.26-18.47.55:898][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.26-18.47.55:898][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.26-18.47.55:898][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.26-18.47.55:899][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.26-18.47.55:900][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.26-18.47.55:900][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.26-18.47.55:900][  0]LogHAL: Display: Platform has ~ 6 GB [6336409600 / 8589934592 / 6], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.26-18.47.55:900][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.26-18.47.55:900][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2020.10.26-18.47.55:900][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.10.26-18.47.55:901][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.26-18.47.55:902][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.26-18.47.55:903][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.26-18.47.55:903][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.26-18.47.55:903][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.26-18.47.55:903][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Engine.ini]
+[2020.10.26-18.47.55:903][  0]LogInit: Computer: DESKTOP-GDIUJ2N
+[2020.10.26-18.47.55:903][  0]LogInit: User: user
+[2020.10.26-18.47.55:903][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.10.26-18.47.55:903][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.26-18.47.55:903][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2020.10.26-18.47.55:903][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.26-18.47.55:903][  0]LogMemory: Process Physical Memory: 114.63 MB used, 114.64 MB peak
+[2020.10.26-18.47.55:903][  0]LogMemory: Process Virtual Memory: 95.02 MB used, 95.02 MB peak
+[2020.10.26-18.47.55:903][  0]LogMemory: Physical Memory: 3681.16 MB used,  2361.71 MB free, 6042.87 MB total
+[2020.10.26-18.47.55:903][  0]LogMemory: Virtual Memory: 5124.55 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2020.10.26-18.47.55:910][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.26-18.47.55:957][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.10.26-18.47.55:959][  0]LogInit: Using OS detected language (ru-RU).
+[2020.10.26-18.47.55:959][  0]LogInit: Using OS detected locale (ru-RU).
+[2020.10.26-18.47.55:961][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2020.10.26-18.47.55:961][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2020.10.26-18.47.55:961][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2020.10.26-18.47.55:962][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2020.10.26-18.47.55:962][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2020.10.26-18.47.55:962][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2020.10.26-18.47.55:962][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2020.10.26-18.47.55:962][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2020.10.26-18.47.55:964][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.26-18.47.56:019][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.26-18.47.56:019][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.26-18.47.56:409][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.26-18.47.56:409][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.26-18.47.56:409][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.26-18.47.56:409][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.26-18.47.56:541][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 930M' (Feature Level 11_0)
+[2020.10.26-18.47.56:541][  0]LogD3D11RHI:       2010/0/3021 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.10.26-18.47.56:551][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2020.10.26-18.47.56:551][  0]LogD3D11RHI:       128/0/3021 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.10.26-18.47.56:554][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.26-18.47.56:554][  0]LogD3D11RHI:       0/0/3021 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.26-18.47.56:554][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.26-18.47.56:627][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.26-18.47.56:628][  0]LogD3D11RHI:     GPU DeviceId: 0x1346 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.26-18.47.56:628][  0]LogWindows: EnumDisplayDevices:
+[2020.10.26-18.47.56:628][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2020.10.26-18.47.56:628][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.10.26-18.47.56:629][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.10.26-18.47.56:629][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.10.26-18.47.56:629][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 930M
+[2020.10.26-18.47.56:629][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.10.26-18.47.56:629][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.10.26-18.47.56:629][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2020.10.26-18.47.56:713][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.10.26-18.47.56:716][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.10.26-18.47.56:716][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.26-18.47.56:735][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.26-18.47.57:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.26-18.47.57:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.26-18.47.57:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.26-18.47.57:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.26-18.47.57:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.26-18.47.57:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.26-18.47.57:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.26-18.47.57:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.26-18.47.57:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.26-18.47.57:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.26-18.47.57:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.26-18.47.57:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.26-18.47.57:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.26-18.47.57:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.26-18.47.57:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.26-18.47.57:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.26-18.47.57:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.26-18.47.57:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.26-18.47.57:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.26-18.47.57:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.26-18.47.57:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.26-18.47.57:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.26-18.47.57:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.26-18.47.57:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.26-18.47.57:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.26-18.47.57:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.26-18.47.57:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.26-18.47.57:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.26-18.47.57:486][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.26-18.47.57:497][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.26-18.47.57:576][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../test/GitHub/NeonGame/Intermediate/Shaders/WorkingDirectory/16312/).
+[2020.10.26-18.47.57:576][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Temp/UnrealShaderWorkingDir/5EEB3C3A4F3B6790A73AA48BA2D04680/'.
+[2020.10.26-18.47.57:577][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.26-18.47.57:577][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.26-18.47.57:577][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.26-18.47.58:813][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.26-18.47.58:892][  0]LogDerivedDataCache: Loaded boot cache 0.08s 75MB C:/Users/user/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.26-18.47.58:892][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.10.26-18.47.58:892][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../test/GitHub/NeonGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.26-18.47.58:892][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.26-18.47.58:892][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../test/GitHub/NeonGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.26-18.47.58:892][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.26-18.47.58:909][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.26-18.47.58:909][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.26-18.47.58:909][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.26-18.47.58:910][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.26-18.47.58:910][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.26-18.47.58:910][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.26-18.47.58:980][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.26-18.47.58:980][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.26-18.47.59:030][  0]LogAssetRegistry: FAssetRegistry took 0.0036 seconds to start up
+[2020.10.26-18.47.59:392][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.26-18.47.59:547][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.26-18.47.59:547][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.26-18.47.59:547][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.26-18.47.59:547][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.26-18.47.59:547][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.26-18.47.59:580][  0]LogNetVersion: NeonGame 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 508936323)
+[2020.10.26-18.48.00:427][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001B1B17A9700), frame # 0
+[2020.10.26-18.48.00:427][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B1B16E7C40), frame # 0
+[2020.10.26-18.48.00:429][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B1B174DE00), frame # 0
+[2020.10.26-18.48.00:903][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.465598 seconds
+[2020.10.26-18.48.00:910][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.10.26-18.48.00:910][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.10.26-18.48.00:910][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.26-18.48.01:367][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.26-18.48.01:372][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.26-18.48.01:512][  0]SourceControl: Source control is disabled
+[2020.10.26-18.48.01:512][  0]SourceControl: Source control is disabled
+[2020.10.26-18.48.01:516][  0]SourceControl: Source control is disabled
+[2020.10.26-18.48.01:521][  0]SourceControl: Source control is disabled
+[2020.10.26-18.48.01:531][  0]SourceControl: Source control is disabled
+[2020.10.26-18.48.01:845][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.26-18.48.01:870][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.26-18.48.01:870][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.26-18.48.01:932][  0]LogOcInput: OculusInput pre-init called
+[2020.10.26-18.48.01:946][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.26-18.48.01:946][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.26-18.48.02:029][  0]LogEngine: Initializing Engine...
+[2020.10.26-18.48.02:030][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.26-18.48.02:030][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.10.26-18.48.02:031][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.26-18.48.02:197][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.26-18.48.02:208][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.26-18.48.02:208][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B1B451BC00), frame # 0
+[2020.10.26-18.48.02:208][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B1B4523B00), frame # 0
+[2020.10.26-18.48.02:243][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-18.48.02:243][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-18.48.02:243][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-18.48.02:243][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-18.48.02:243][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-18.48.02:243][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-18.48.02:243][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-18.48.02:243][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-18.48.02:243][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-18.48.02:243][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-18.48.02:253][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-18.48.02:253][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-18.48.02:326][  0]LogAudioMixer: Display: Using Audio Device Динамики (USB PnP Sound Device)
+[2020.10.26-18.48.02:330][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.26-18.48.02:333][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.26-18.48.02:333][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.26-18.48.02:334][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.26-18.48.02:335][  0]LogInit: FAudioDevice initialized.
+[2020.10.26-18.48.02:336][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.26-18.48.02:473][  0]LogDerivedDataCache: Saved boot cache 0.14s 75MB C:/Users/user/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.26-18.48.02:478][  0]LogInit: Texture streaming: Enabled
+[2020.10.26-18.48.02:505][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.26-18.48.02:505][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.26-18.48.02:509][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.26-18.48.02:581][  0]LogInit: Transaction tracking system initialized
+[2020.10.26-18.48.02:609][  0]BlueprintLog: New page: Editor Load
+[2020.10.26-18.48.02:797][  0]LocalizationService: Localization service is disabled
+[2020.10.26-18.48.03:290][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.26-18.48.03:290][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.26-18.48.03:533][  0]LogFileCache: Scanning file cache for directory 'D:/test/GitHub/NeonGame/Content/' took 0.01s
+[2020.10.26-18.48.04:434][  0]SourceControl: Source control is disabled
+[2020.10.26-18.48.04:435][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.412
+[2020.10.26-18.48.04:435][  0]Cmd: MAP LOAD FILE="../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.26-18.48.04:435][  0]LightingResults: New page: Lighting Build
+[2020.10.26-18.48.04:436][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-18.48.04:436][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-18.48.04:436][  0]MapCheck: New page: Map Check
+[2020.10.26-18.48.04:437][  0]LightingResults: New page: Lighting Build
+[2020.10.26-18.48.04:448][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B1B451BC00), frame # 0
+[2020.10.26-18.48.04:448][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B1B4523B00), frame # 0
+[2020.10.26-18.48.04:449][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.10.26-18.48.05:153][  0]LogAIModule: Creating AISystem for world Menulevel
+[2020.10.26-18.48.05:154][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B1A866A400), frame # 0
+[2020.10.26-18.48.05:154][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B1A5DB1300), frame # 0
+[2020.10.26-18.48.05:155][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.26-18.48.05:169][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.10.26-18.48.05:172][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.26-18.48.05:173][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,127ms to complete.
+[2020.10.26-18.48.05:173][  0]LogFileHelpers: Loading map 'Menulevel' took 0.738
+[2020.10.26-18.48.05:175][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.152
+[2020.10.26-18.48.05:351][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-18.48.05:364][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-18.48.05:377][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-18.48.05:389][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-18.48.05:398][  0]LogCollectionManager: Loaded 0 collections in 0.001453 seconds
+[2020.10.26-18.48.05:423][  0]LogFileCache: Scanning file cache for directory 'D:/test/GitHub/NeonGame/Saved/Collections/' took 0.00s
+[2020.10.26-18.48.05:423][  0]LogFileCache: Scanning file cache for directory 'D:/test/GitHub/NeonGame/Content/Developers/user/Collections/' took 0.00s
+[2020.10.26-18.48.05:423][  0]LogFileCache: Scanning file cache for directory 'D:/test/GitHub/NeonGame/Content/Collections/' took 0.00s
+[2020.10.26-18.48.05:423][  0]LogContentBrowser: Native class hierarchy populated in 0.0148 seconds. Added 3427 classes and 821 folders.
+[2020.10.26-18.48.05:427][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.26-18.48.05:582][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.10.26-18.48.05:583][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2020.10.26-18.48.05:635][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2020.10.26-18.48.05:635][  0]LogLoad: (Engine Initialization) Total time: 12.61 seconds
+[2020.10.26-18.48.05:636][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.26-18.48.05:716][  0]LogContentStreaming: Texture pool size now 600 MB
+[2020.10.26-18.48.05:718][  0]LogSlate: Took 0.000446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.26-18.48.05:721][  0]LogSlate: Took 0.000387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.26-18.48.05:728][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.26-18.48.05:932][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.26-18.48.05:958][  1]LogRenderer: Reallocating scene render targets to support 720x380 Format 9 NumSamples 1 (Frame:1).
+[2020.10.26-18.48.06:072][  1]LogAssetRegistry: Asset discovery search completed in 7.0437 seconds
+[2020.10.26-18.48.06:082][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2020.10.26-18.48.07:264][ 31]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.26-18.49.16:262][237]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.26-18.49.16:262][237]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.26-18.49.18:184][331]LogRenderer: Reallocating scene render targets to support 772x396 Format 9 NumSamples 1 (Frame:123).
+[2020.10.26-18.49.23:993][665]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.26-18.49.24:267][665]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 125 classes and 0 folders.
+[2020.10.26-18.49.25:558][665]LogSlate: Took 0.000398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.26-18.49.25:743][666]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.26-18.49.38:962][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../../test/GitHub/NeonGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.10.26-18.49.39:075][434]LogSavePackage: Moving '../../../../../../test/GitHub/NeonGame/Saved/ThirdPersonCharacterE9D0549243BB83BF51B82CA551A72D10.tmp' to '../../../../../../test/GitHub/NeonGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.10.26-18.49.39:100][434]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.10.26-18.49.39:101][434]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.26-18.49.45:605][799]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.10.26-18.49.46:194][799]LogSlate: Took 0.000383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.26-18.49.49:142][970]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-18.49.49:142][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-18.49.55:078][309]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/RunnerFiels/UI/Poused/Poused.Poused
+[2020.10.26-18.50.05:120][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/UI/Poused/Poused" FILE="../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/UI/Poused/Poused.uasset" SILENT=true
+[2020.10.26-18.50.05:253][829]LogSavePackage: Moving '../../../../../../test/GitHub/NeonGame/Saved/Poused8CA2353E4FB837DEA3B904B382E75D73.tmp' to '../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/UI/Poused/Poused.uasset'
+[2020.10.26-18.50.05:326][829]AssetCheck: New page: Asset Save: Poused
+[2020.10.26-18.50.05:326][829]LogContentValidation: Display: Validating WidgetBlueprint /Game/RunnerFiels/UI/Poused/Poused.Poused
+[2020.10.26-18.50.23:618][872]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.26-18.50.23:618][872]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.26-18.52.00:863][ 62]Error: BEGIN OBJECT: Invalid class specified: Begin Object Class=EdGraphPin Name="EdGraphPin_34825"
+[2020.10.26-18.55.11:916][704]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/RunnerFiels/Level/Menulevel.Menulevel:PersistentLevel.Menulevel
+[2020.10.26-18.55.41:981][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Level/Menulevel" FILE="../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.26-18.55.42:278][370]LogUObjectHash: Compacting FUObjectHashTables data took  13.21ms
+[2020.10.26-18.55.42:391][370]LogSavePackage: Moving '../../../../../../test/GitHub/NeonGame/Saved/MenulevelEEC8B7B74F1C94AA9D18BAA9C4572A56.tmp' to '../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap'
+[2020.10.26-18.55.42:445][370]LogFileHelpers: Saving map 'Menulevel' took 0.465
+[2020.10.26-18.55.42:461][370]AssetCheck: New page: Asset Save: Menulevel
+[2020.10.26-18.55.42:461][370]LogContentValidation: Display: Validating World /Game/RunnerFiels/Level/Menulevel.Menulevel
+[2020.10.26-18.55.43:456][425]BlueprintLog: New page: Compile Menulevel
+[2020.10.26-18.55.43:562][425]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.10.26-18.55.49:532][753]LogSlate: Window 'Menulevel' being destroyed
+[2020.10.26-18.55.52:110][900]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.10.26-18.55.52:143][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Level/Menulevel" FILE="../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.26-18.55.52:203][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.10.26-18.55.52:233][900]LogSavePackage: Moving '../../../../../../test/GitHub/NeonGame/Saved/Menulevel1C12F6D44DFEE3B52C65B18FB04DEF90.tmp' to '../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap'
+[2020.10.26-18.55.52:287][900]LogFileHelpers: Saving map 'Menulevel' took 0.144
+[2020.10.26-18.55.52:303][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../../test/GitHub/NeonGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.10.26-18.55.52:433][900]LogSavePackage: Moving '../../../../../../test/GitHub/NeonGame/Saved/ThirdPersonCharacterF3E1DE734AC2DCB6EBE28CBB93ED9C04.tmp' to '../../../../../../test/GitHub/NeonGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.10.26-18.55.52:459][900]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.26-18.55.52:459][900]LogContentValidation: Display: Validating World /Game/RunnerFiels/Level/Menulevel.Menulevel
+[2020.10.26-18.55.52:459][900]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.26-18.55.55:893][ 94]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.26-18.55.55:921][ 94]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.26-18.55.55:948][ 94]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.10.26-18.55.56:091][ 94]LogPlayLevel: [PlayLevel] Compiling Poused before play...
+[2020.10.26-18.55.56:244][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2020.10.26-18.55.56:246][ 94]LogPlayLevel: PlayLevel: Blueprint regeneration took 325 ms (2 blueprints)
+[2020.10.26-18.55.56:252][ 94]PIE: New page: PIE session: Menulevel (27 окт. 2020 г., 04:55:56)
+[2020.10.26-18.55.56:259][ 94]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.10.26-18.55.56:261][ 94]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.10.26-18.55.56:261][ 94]LogPlayLevel: Creating play world package: /Game/RunnerFiels/Level/UEDPIE_0_Menulevel
+[2020.10.26-18.55.56:264][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002353s)
+[2020.10.26-18.55.56:265][ 94]LogAIModule: Creating AISystem for world Menulevel
+[2020.10.26-18.55.56:265][ 94]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B212966200), frame # 9094
+[2020.10.26-18.55.56:265][ 94]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B22BDA1940), frame # 9094
+[2020.10.26-18.55.56:266][ 94]LogPlayLevel: PIE: World Init took: (0.002264s)
+[2020.10.26-18.55.56:266][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerFiels/Level/Menulevel.Menulevel to /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel (0.004967s)
+[2020.10.26-18.55.56:318][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.10.26-18.55.56:319][ 94]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-18.55.56:319][ 94]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-18.55.56:319][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-18.55.56:319][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-18.55.56:319][ 94]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-18.55.56:319][ 94]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-18.55.56:319][ 94]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-18.55.56:320][ 94]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-18.55.56:321][ 94]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-18.55.56:321][ 94]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-18.55.56:325][ 94]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-18.55.56:325][ 94]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-18.55.56:347][ 94]LogAudioMixer: Display: Using Audio Device Динамики (USB PnP Sound Device)
+[2020.10.26-18.55.56:348][ 94]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.26-18.55.56:348][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.26-18.55.56:348][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.26-18.55.56:350][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.26-18.55.56:376][ 94]LogInit: FAudioDevice initialized.
+[2020.10.26-18.55.56:416][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-18.55.56:417][ 94]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.26-18.55.56:419][ 94]LogWorld: Bringing World /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel up for play (max tick rate 60) at 2020.10.26-23.55.56
+[2020.10.26-18.55.56:419][ 94]LogWorld: Bringing up level for play took: 0.000895
+[2020.10.26-18.55.56:420][ 94]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.10.26-18.55.56:451][ 94]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0038 seconds. Added 20 classes and 0 folders.
+[2020.10.26-18.55.56:455][ 94]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-18.55.56:461][ 94]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_1.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-18.55.56:465][ 94]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_2.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-18.55.56:470][ 94]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_3.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-18.55.56:475][ 94]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_4.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-18.55.56:479][ 94]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_5.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-18.55.56:484][ 94]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_6.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-18.55.56:490][ 94]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_7.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-18.55.56:494][ 94]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_8.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-18.55.56:498][ 94]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_9.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-18.55.56:503][ 94]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_10.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-18.55.56:523][ 94]PIE: Server logged in
+[2020.10.26-18.55.56:525][ 94]PIE: Play in editor total start time 0,606 seconds.
+[2020.10.26-18.55.57:138][ 95]LogRenderer: Reallocating scene render targets to support 912x496 Format 9 NumSamples 1 (Frame:1).
+[2020.10.26-18.55.57:138][ 95]LogD3D11RHI: Error: Direct3DDevice->CreateTexture2D(TextureDesc,SubResourceData,OutTexture2D) failed 
+ at D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Texture.cpp:480 
+ with error E_OUTOFMEMORY, 
+ Size=456x248x1 PF=11 D3DFormat=DXGI_FORMAT_R32G8X24_TYPELESS(0x00000013), NumMips=1, Flags=D3D11_BIND_DEPTH_STENCIL D3D11_BIND_SHADER_RESOURCE , Usage:0x0, CPUFlags:0x0, MiscFlags:0x0, SampleCount:0x1, SampleQuality:0x0, SubresPtr:0x0000000000000000, SubresPitch:0, SubresSlicePitch:0
+[2020.10.26-18.55.57:138][ 95]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059391 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     86 = 2209 KB (2D 912x496 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     87 = 553 KB (2D 456x248 PF_DepthStencil) UnknownTexture2D
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:      4 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:      3 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:      2 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     25 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:      1 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     24 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     39 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     11 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     42 = 49 KB (2D 98x64 PF_A16B16G16R16) SSProfiles
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     22 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     18 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     23 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     19 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     20 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     41 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     40 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     10 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:      9 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     13 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     12 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2020.10.26-18.55.57:996][ 96]LogConsoleResponse:     15 = 1 KB (2D 1x1 PF_FloatRGBA RT) MidGreyDummy
+[2020.10.26-18.55.57:997][ 96]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_R32_UINT RT) ZeroUIntDummy
+[2020.10.26-18.55.57:997][ 96]LogConsoleResponse:     14 = 1 KB (2D 1x1 PF_R8G8B8A8_UINT RT) StencilDummy
+[2020.10.26-18.55.57:997][ 96]LogConsoleResponse:     16 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2020.10.26-18.55.57:997][ 96]LogConsoleResponse:     21 = 1 KB (2D 4x4 PF_R8G8B8A8) GTAORandomization
+[2020.10.26-18.55.57:997][ 96]LogConsoleResponse:     17 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) VolumetricBlackDummy
+[2020.10.26-18.55.57:997][ 96]LogConsoleResponse: 
+[2020.10.26-18.56.03:838][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.03:972][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.03:974][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.03:976][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.03:978][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.03:980][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.03:982][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.03:985][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.03:987][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.03:989][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.03:991][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.03:994][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.03:996][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.03:999][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:001][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:004][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:006][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:008][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:010][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:013][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:015][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:017][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:019][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:022][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:024][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:026][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:028][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:030][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:033][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:035][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:038][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:040][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:042][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:044][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:046][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:050][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:052][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:054][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:056][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:060][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:062][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:064][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:066][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:068][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:071][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:073][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:075][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:079][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:081][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:083][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:085][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:087][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:091][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:093][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:096][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:098][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:100][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:102][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:104][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:108][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:110][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:112][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:115][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:117][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:119][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:123][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:125][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:127][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:131][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:134][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:136][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:138][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:140][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:143][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:145][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:148][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:150][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:152][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:155][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:158][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:160][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:162][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:165][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:169][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:170][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:172][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:176][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:178][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:180][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:182][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:185][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:187][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:190][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:193][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:197][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:198][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:202][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:204][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:206][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:209][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:211][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:215][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:217][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:221][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:223][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:226][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:228][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:230][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:234][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:236][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:240][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:242][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:244][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:247][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:251][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:253][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:255][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:259][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:261][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:265][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:267][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:270][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:274][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:276][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:278][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:281][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:283][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:287][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:290][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:293][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:295][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:299][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:301][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:304][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:308][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:310][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:312][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:316][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:318][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:322][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:324][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:328][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:330][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:334][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:336][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:339][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:342][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:346][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:349][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:351][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:355][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:357][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:359][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:363][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:365][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:368][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:371][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:375][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:377][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:380][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:383][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:387][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:389][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:393][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:395][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:397][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:401][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:404][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:406][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:409][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:414][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:416][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:418][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:422][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:424][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:427][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:430][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:434][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:437][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:440][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:444][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:446][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:448][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:452][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:455][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:458][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:462][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:464][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:468][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:470][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:473][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:477][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:479][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:483][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:487][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:490][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:492][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:495][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:499][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:501][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:504][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:507][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:511][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:514][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:518][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:521][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:524][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:526][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:530][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:534][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:536][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:539][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:543][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:546][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:549][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:550][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:555][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:557][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:560][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:564][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:568][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:570][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:573][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:576][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:580][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:584][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:588][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:590][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:594][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:598][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:600][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:604][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:607][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:611][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:614][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:617][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:620][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:624][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:627][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:630][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:634][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:638][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:640][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:644][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:646][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:651][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:654][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:658][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:660][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:665][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:667][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:671][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:674][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
+[2020.10.26-18.56.04:678][ 96]LogWindows: Warning: SymLoadModuleExW. Error: 8
