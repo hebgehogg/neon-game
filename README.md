@@ -40,13 +40,21 @@ Goal: собрать как можно больше очков
 > Interface: 
 
 Окно открывающиеся при входе  
+
+![Окно](https://github.com/hebgehogg/NeonGame/blob/main/photos/StartGame.png)
+
 Окно паузы  
-Окно окоончания игры  
+
+![Окно](https://github.com/hebgehogg/NeonGame/blob/main/photos/StartGame.png)
+
+Окно окончания игры  
+
+![Окно](https://github.com/hebgehogg/NeonGame/blob/main/photos/Paused.png)
 
 
 > Gameplay map: 
 
-![Mood](https://github.com/hebgehogg/NeonGame/blob/main/photos/Gameplay%20map.jpg)
+![Gameplay map](https://github.com/hebgehogg/NeonGame/blob/main/photos/Gameplay%20map.jpg)
 
 
 > Level design: 
@@ -55,6 +63,8 @@ Goal: собрать как можно больше очков
 На каждом уровне есть "Coins', чем больше их собрал игрок - тем лучше, в игре для этого добавлен счетчик который выводит все на экран.  
 Лучший счет запоминается - хранится у пользователя на устройстве.  
 Все отображено в интерфейсе.  
+
+![Level design](https://github.com/hebgehogg/NeonGame/blob/main/photos/LevelDesign.png)
 
 
 > Balance:
