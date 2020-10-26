@@ -39,15 +39,15 @@ Goal: собрать как можно больше очков
 
 > Interface: 
 
-Окно открывающиеся при входе  
+### Окно открывающиеся при входе  
 
 ![Окно](https://github.com/hebgehogg/NeonGame/blob/main/photos/StartGame.png)
 
-Окно паузы  
+### Окно паузы  
 
 ![Окно](https://github.com/hebgehogg/NeonGame/blob/main/photos/StartGame.png)
 
-Окно окончания игры  
+### Окно окончания игры  
 
 ![Окно](https://github.com/hebgehogg/NeonGame/blob/main/photos/Paused.png)
 
