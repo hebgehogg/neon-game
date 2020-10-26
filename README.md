@@ -45,11 +45,12 @@ Goal: собрать как можно больше очков
 
 ### Окно паузы  
 
-![Окно](https://github.com/hebgehogg/NeonGame/blob/main/photos/StartGame.png)
+![Окно](https://github.com/hebgehogg/NeonGame/blob/main/photos/Paused.png)
 
 ### Окно окончания игры  
 
-![Окно](https://github.com/hebgehogg/NeonGame/blob/main/photos/Paused.png)
+В игре сохраняется ваш лучший счет.  
+![Окно](https://github.com/hebgehogg/NeonGame/blob/main/photos/GameOver.png)
 
 
 > Gameplay map: 
