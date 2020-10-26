@@ -1096,3 +1096,425 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.26-20.52.22:292][973]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.26-20.52.22:292][973]LogContentValidation: Display: Validating World /Game/RunnerFiels/Level/Menulevel.Menulevel
 [2020.10.26-20.52.22:292][973]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RunnerFiels/Level/Menulevel_BuiltData.Menulevel_BuiltData
+[2020.10.26-20.53.12:330][149]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.26-20.53.12:330][149]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.26-21.01.33:485][ 10]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.26-21.01.33:507][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.26-21.01.33:507][ 10]PIE: New page: PIE session: Menulevel (27 окт. 2020 г., 07:01:33)
+[2020.10.26-21.01.33:507][ 10]LogPlayLevel: Creating play world package: /Game/RunnerFiels/Level/UEDPIE_0_Menulevel
+[2020.10.26-21.01.33:509][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002008s)
+[2020.10.26-21.01.33:510][ 10]LogAIModule: Creating AISystem for world Menulevel
+[2020.10.26-21.01.33:510][ 10]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F37D9B7200), frame # 8010
+[2020.10.26-21.01.33:511][ 10]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F346A2E340), frame # 8010
+[2020.10.26-21.01.33:511][ 10]LogPlayLevel: PIE: World Init took: (0.001427s)
+[2020.10.26-21.01.33:511][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerFiels/Level/Menulevel.Menulevel to /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel (0.003554s)
+[2020.10.26-21.01.33:526][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.10.26-21.01.33:529][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-21.01.33:529][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-21.01.33:529][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-21.01.33:529][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-21.01.33:529][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-21.01.33:529][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-21.01.33:529][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-21.01.33:529][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-21.01.33:529][ 10]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-21.01.33:529][ 10]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-21.01.33:538][ 10]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-21.01.33:538][ 10]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-21.01.33:593][ 10]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.10.26-21.01.33:594][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.26-21.01.33:594][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.26-21.01.33:594][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.26-21.01.33:595][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.26-21.01.33:609][ 10]LogInit: FAudioDevice initialized.
+[2020.10.26-21.01.33:675][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-21.01.33:676][ 10]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.26-21.01.33:677][ 10]LogWorld: Bringing World /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel up for play (max tick rate 60) at 2020.10.27-02.01.33
+[2020.10.26-21.01.33:678][ 10]LogWorld: Bringing up level for play took: 0.000761
+[2020.10.26-21.01.33:678][ 10]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.10.26-21.01.33:687][ 10]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.33:691][ 10]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_1.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.33:694][ 10]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_2.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.33:698][ 10]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_3.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.33:701][ 10]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_4.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.33:704][ 10]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_5.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.33:707][ 10]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_6.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.33:711][ 10]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_7.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.33:715][ 10]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_8.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.33:718][ 10]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_9.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.33:722][ 10]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_10.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.33:727][ 10]PIE: Server logged in
+[2020.10.26-21.01.33:729][ 10]PIE: Play in editor total start time 0,223 seconds.
+[2020.10.26-21.01.35:397][ 69]LogNet: Browse: /Game/RunnerFiels/Level/FirstLevel
+[2020.10.26-21.01.35:397][ 69]LogLoad: LoadMap: /Game/RunnerFiels/Level/FirstLevel
+[2020.10.26-21.01.35:397][ 69]LogWorld: BeginTearingDown for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel
+[2020.10.26-21.01.35:398][ 69]LogWorld: UWorld::CleanupWorld for Menulevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-21.01.35:399][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.01.35:416][ 69]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F346A2E340), frame # 8069
+[2020.10.26-21.01.35:416][ 69]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F37D9B7200), frame # 8069
+[2020.10.26-21.01.35:417][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.26-21.01.35:426][ 69]LogAIModule: Creating AISystem for world FirstLevel
+[2020.10.26-21.01.35:426][ 69]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F30D8E6C00), frame # 8069
+[2020.10.26-21.01.35:426][ 69]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F3469E6D40), frame # 8069
+[2020.10.26-21.01.35:426][ 69]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.26-21.01.35:428][ 69]LogWorld: Bringing World /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 60) at 2020.10.27-02.01.35
+[2020.10.26-21.01.35:428][ 69]LogWorld: Bringing up level for play took: 0.000685
+[2020.10.26-21.01.35:430][ 69]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.35:433][ 69]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_1.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.35:435][ 69]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_2.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.35:438][ 69]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_3.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.35:440][ 69]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_4.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.35:443][ 69]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_5.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.35:446][ 69]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_6.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.35:450][ 69]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_7.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.35:453][ 69]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_8.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.35:455][ 69]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_9.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.35:458][ 69]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_10.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.35:460][ 69]LogLoad: Took 0.062762 seconds to LoadMap(/Game/RunnerFiels/Level/FirstLevel)
+[2020.10.26-21.01.35:989][ 93]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_11.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.36:829][128]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_12.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.37:649][168]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_13.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.38:486][208]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_14.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.39:330][249]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_15.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.40:174][288]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_16.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.40:993][327]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_17.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.41:822][364]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_18.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.42:655][404]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_19.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.43:484][443]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_20.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.44:317][482]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_21.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.45:171][523]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_22.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.45:999][563]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_23.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.46:825][600]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_24.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.47:660][640]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_25.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.48:499][680]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_26.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.49:318][719]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_27.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.50:150][756]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_28.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.01.50:984][794]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_29.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.02.29:882][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-21.02.29:883][290]LogWorld: BeginTearingDown for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel
+[2020.10.26-21.02.29:883][290]LogSlate: Window 'NeonGame Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.26-21.02.29:889][290]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-21.02.29:892][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.02.29:906][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-21.02.29:908][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.02.29:940][290]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F3469E6D40), frame # 9290
+[2020.10.26-21.02.29:940][290]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F30D8E6C00), frame # 9290
+[2020.10.26-21.02.29:941][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.10.26-21.02.30:001][291]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.10.26-21.02.55:750][550]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RunnerFiels/RunBlock/MasterRunBlock.MasterRunBlock
+[2020.10.26-21.02.56:319][550]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2020.10.26-21.02.58:066][550]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.02.58:079][550]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.26-21.02.58:444][551]LogSlate: Took 0.008908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.26-21.03.33:212][257]LogAssetEditorSubsystem: Opening Asset editor for World /Game/RunnerFiels/Level/Menulevel.Menulevel
+[2020.10.26-21.03.33:246][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.10.26-21.03.33:250][257]Cmd: MAP LOAD FILE="C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.26-21.03.33:250][257]LightingResults: New page: Lighting Build
+[2020.10.26-21.03.33:250][257]LoadErrors: New page: Loading map: Menulevel.umap
+[2020.10.26-21.03.33:251][257]LogWorld: UWorld::CleanupWorld for Menulevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-21.03.33:251][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.03.33:251][257]MapCheck: New page: Map Check
+[2020.10.26-21.03.33:252][257]LightingResults: New page: Lighting Build
+[2020.10.26-21.03.33:273][257]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F34759FE00), frame # 12257
+[2020.10.26-21.03.33:273][257]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F355383100), frame # 12257
+[2020.10.26-21.03.33:275][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.10.26-21.03.33:285][257]LogAIModule: Creating AISystem for world Menulevel
+[2020.10.26-21.03.33:285][257]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F346884E00), frame # 12257
+[2020.10.26-21.03.33:285][257]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F3AFB20F40), frame # 12257
+[2020.10.26-21.03.33:586][257]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.26-21.03.33:618][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.10.26-21.03.33:647][257]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.26-21.03.33:647][257]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,121ms to complete.
+[2020.10.26-21.03.33:647][257]LogFileHelpers: Loading map 'Menulevel' took 0.396
+[2020.10.26-21.03.40:351][570]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/RunnerFiels/Level/Menulevel.Menulevel:PersistentLevel.Menulevel
+[2020.10.26-21.04.04:030][538]BlueprintLog: New page: Compile Menulevel
+[2020.10.26-21.04.04:107][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.10.26-21.04.04:841][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Level/Menulevel" FILE="C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.26-21.04.04:881][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.10.26-21.04.04:916][566]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Saved/Menulevel748B58A748A860834CF209B2726EEC85.tmp' to 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap'
+[2020.10.26-21.04.04:951][566]LogFileHelpers: Saving map 'Menulevel' took 0.110
+[2020.10.26-21.04.04:970][566]AssetCheck: New page: Asset Save: Menulevel
+[2020.10.26-21.04.04:970][566]LogContentValidation: Display: Validating World /Game/RunnerFiels/Level/Menulevel.Menulevel
+[2020.10.26-21.04.08:306][713]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.26-21.04.08:328][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.26-21.04.08:328][713]PIE: New page: PIE session: Menulevel (27 окт. 2020 г., 07:04:08)
+[2020.10.26-21.04.08:328][713]LogPlayLevel: Creating play world package: /Game/RunnerFiels/Level/UEDPIE_0_Menulevel
+[2020.10.26-21.04.08:330][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001566s)
+[2020.10.26-21.04.08:331][713]LogAIModule: Creating AISystem for world Menulevel
+[2020.10.26-21.04.08:331][713]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F3D186FE00), frame # 13713
+[2020.10.26-21.04.08:331][713]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F3D19DEAC0), frame # 13713
+[2020.10.26-21.04.08:331][713]LogPlayLevel: PIE: World Init took: (0.001302s)
+[2020.10.26-21.04.08:331][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerFiels/Level/Menulevel.Menulevel to /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel (0.002971s)
+[2020.10.26-21.04.08:358][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.10.26-21.04.08:359][713]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-21.04.08:359][713]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-21.04.08:359][713]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-21.04.08:359][713]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-21.04.08:359][713]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-21.04.08:359][713]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-21.04.08:359][713]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-21.04.08:359][713]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-21.04.08:360][713]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-21.04.08:360][713]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-21.04.08:363][713]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-21.04.08:363][713]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-21.04.08:411][713]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.10.26-21.04.08:411][713]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.26-21.04.08:411][713]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.26-21.04.08:411][713]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.26-21.04.08:412][713]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.26-21.04.08:428][713]LogInit: FAudioDevice initialized.
+[2020.10.26-21.04.08:512][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-21.04.08:513][713]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.26-21.04.08:515][713]LogWorld: Bringing World /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel up for play (max tick rate 60) at 2020.10.27-02.04.08
+[2020.10.26-21.04.08:516][713]LogWorld: Bringing up level for play took: 0.001338
+[2020.10.26-21.04.08:517][713]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.10.26-21.04.08:528][713]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.08:533][713]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_1.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.08:539][713]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_2.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.08:545][713]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_3.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.08:552][713]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_4.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.08:557][713]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_5.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.08:561][713]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_6.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.08:565][713]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_7.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.08:569][713]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_8.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.08:577][713]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_9.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.08:581][713]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_10.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.08:587][713]PIE: Server logged in
+[2020.10.26-21.04.08:590][713]PIE: Play in editor total start time 0,262 seconds.
+[2020.10.26-21.04.12:205][827]LogSlate: Window 'NeonGame Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.26-21.04.12:220][827]LogWorld: BeginTearingDown for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel
+[2020.10.26-21.04.12:221][827]LogWorld: UWorld::CleanupWorld for Menulevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-21.04.12:228][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.04.12:236][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-21.04.12:240][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.04.12:292][827]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F3D19DEAC0), frame # 13827
+[2020.10.26-21.04.12:293][827]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F3D186FE00), frame # 13827
+[2020.10.26-21.04.12:295][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.10.26-21.04.12:381][828]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.10.26-21.04.17:226][ 36]BlueprintLog: New page: Compile Menulevel
+[2020.10.26-21.04.17:280][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.10.26-21.04.17:942][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Level/Menulevel" FILE="C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.26-21.04.17:979][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.10.26-21.04.18:001][ 62]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Saved/Menulevel4BCE0BF54C4DB0A90CCC02BED3CCF703.tmp' to 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap'
+[2020.10.26-21.04.18:033][ 62]LogFileHelpers: Saving map 'Menulevel' took 0.091
+[2020.10.26-21.04.18:050][ 62]AssetCheck: New page: Asset Save: Menulevel
+[2020.10.26-21.04.18:050][ 62]LogContentValidation: Display: Validating World /Game/RunnerFiels/Level/Menulevel.Menulevel
+[2020.10.26-21.04.19:554][126]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.26-21.04.19:578][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.26-21.04.19:578][126]PIE: New page: PIE session: Menulevel (27 окт. 2020 г., 07:04:19)
+[2020.10.26-21.04.19:578][126]LogPlayLevel: Creating play world package: /Game/RunnerFiels/Level/UEDPIE_0_Menulevel
+[2020.10.26-21.04.19:580][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001471s)
+[2020.10.26-21.04.19:581][126]LogAIModule: Creating AISystem for world Menulevel
+[2020.10.26-21.04.19:581][126]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F3D18DF600), frame # 14126
+[2020.10.26-21.04.19:581][126]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F3D19FB100), frame # 14126
+[2020.10.26-21.04.19:581][126]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2020.10.26-21.04.19:581][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerFiels/Level/Menulevel.Menulevel to /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel (0.002645s)
+[2020.10.26-21.04.19:607][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.10.26-21.04.19:608][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-21.04.19:608][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-21.04.19:608][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-21.04.19:609][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-21.04.19:609][126]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-21.04.19:609][126]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-21.04.19:609][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-21.04.19:609][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-21.04.19:609][126]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-21.04.19:609][126]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-21.04.19:611][126]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-21.04.19:611][126]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-21.04.19:657][126]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.10.26-21.04.19:657][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.26-21.04.19:657][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.26-21.04.19:657][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.26-21.04.19:658][126]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.26-21.04.19:675][126]LogInit: FAudioDevice initialized.
+[2020.10.26-21.04.19:756][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-21.04.19:756][126]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.26-21.04.19:759][126]LogWorld: Bringing World /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel up for play (max tick rate 60) at 2020.10.27-02.04.19
+[2020.10.26-21.04.19:760][126]LogWorld: Bringing up level for play took: 0.001275
+[2020.10.26-21.04.19:761][126]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.10.26-21.04.19:772][126]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.19:777][126]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_1.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.19:782][126]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_2.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.19:787][126]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_3.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.19:791][126]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_4.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.19:796][126]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_5.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.19:800][126]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_6.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.19:811][126]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_7.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.19:817][126]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_8.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.19:819][126]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_9.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.19:822][126]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_10.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.19:828][126]PIE: Server logged in
+[2020.10.26-21.04.19:830][126]PIE: Play in editor total start time 0,252 seconds.
+[2020.10.26-21.04.20:191][133]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_11.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.22:001][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-21.04.22:002][189]LogWorld: BeginTearingDown for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel
+[2020.10.26-21.04.22:002][189]LogSlate: Window 'NeonGame Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.26-21.04.22:010][189]LogWorld: UWorld::CleanupWorld for Menulevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-21.04.22:020][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.04.22:032][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-21.04.22:036][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.04.22:088][189]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F3D19FB100), frame # 14189
+[2020.10.26-21.04.22:089][189]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F3D18DF600), frame # 14189
+[2020.10.26-21.04.22:090][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.10.26-21.04.22:157][190]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.10.26-21.04.29:673][529]BlueprintLog: New page: Compile Menulevel
+[2020.10.26-21.04.29:724][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.10.26-21.04.31:076][584]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.26-21.04.31:102][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.26-21.04.31:102][584]PIE: New page: PIE session: Menulevel (27 окт. 2020 г., 07:04:31)
+[2020.10.26-21.04.31:102][584]LogPlayLevel: Creating play world package: /Game/RunnerFiels/Level/UEDPIE_0_Menulevel
+[2020.10.26-21.04.31:103][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001444s)
+[2020.10.26-21.04.31:105][584]LogAIModule: Creating AISystem for world Menulevel
+[2020.10.26-21.04.31:105][584]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F3D1C38A00), frame # 14584
+[2020.10.26-21.04.31:105][584]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F3D15EA200), frame # 14584
+[2020.10.26-21.04.31:105][584]LogPlayLevel: PIE: World Init took: (0.001915s)
+[2020.10.26-21.04.31:105][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerFiels/Level/Menulevel.Menulevel to /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel (0.003464s)
+[2020.10.26-21.04.31:136][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.10.26-21.04.31:138][584]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-21.04.31:138][584]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-21.04.31:138][584]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-21.04.31:138][584]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-21.04.31:138][584]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-21.04.31:138][584]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-21.04.31:138][584]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-21.04.31:138][584]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-21.04.31:139][584]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-21.04.31:139][584]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-21.04.31:142][584]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-21.04.31:142][584]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-21.04.31:199][584]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.10.26-21.04.31:199][584]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.26-21.04.31:199][584]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.26-21.04.31:199][584]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.26-21.04.31:200][584]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.26-21.04.31:217][584]LogInit: FAudioDevice initialized.
+[2020.10.26-21.04.31:298][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-21.04.31:298][584]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.26-21.04.31:300][584]LogWorld: Bringing World /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel up for play (max tick rate 60) at 2020.10.27-02.04.31
+[2020.10.26-21.04.31:300][584]LogWorld: Bringing up level for play took: 0.000807
+[2020.10.26-21.04.31:300][584]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.10.26-21.04.31:305][584]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.31:310][584]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_1.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.31:314][584]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_2.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.31:318][584]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_3.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.31:323][584]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_4.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.31:327][584]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_5.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.31:331][584]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_6.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.31:335][584]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_7.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.31:338][584]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_8.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.31:342][584]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_9.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.31:355][584]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_10.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.31:361][584]PIE: Server logged in
+[2020.10.26-21.04.31:363][584]PIE: Play in editor total start time 0,262 seconds.
+[2020.10.26-21.04.31:657][590]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_11.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.33:033][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-21.04.33:034][633]LogWorld: BeginTearingDown for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel
+[2020.10.26-21.04.33:034][633]LogSlate: Window 'NeonGame Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.26-21.04.33:045][633]LogWorld: UWorld::CleanupWorld for Menulevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-21.04.33:054][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.04.33:064][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-21.04.33:072][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.04.33:135][633]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F3D15EA200), frame # 14633
+[2020.10.26-21.04.33:135][633]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F3D1C38A00), frame # 14633
+[2020.10.26-21.04.33:137][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.10.26-21.04.33:177][634]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.10.26-21.04.38:564][867]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.26-21.04.38:598][867]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.26-21.04.38:599][867]LogPlayLevel: [PlayLevel] Compiling Menulevel before play...
+[2020.10.26-21.04.38:646][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.10.26-21.04.38:648][867]LogPlayLevel: PlayLevel: Blueprint regeneration took 50 ms (1 blueprints)
+[2020.10.26-21.04.38:648][867]PIE: New page: PIE session: Menulevel (27 окт. 2020 г., 07:04:38)
+[2020.10.26-21.04.38:648][867]LogPlayLevel: Creating play world package: /Game/RunnerFiels/Level/UEDPIE_0_Menulevel
+[2020.10.26-21.04.38:650][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001628s)
+[2020.10.26-21.04.38:651][867]LogAIModule: Creating AISystem for world Menulevel
+[2020.10.26-21.04.38:651][867]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F36D679400), frame # 14867
+[2020.10.26-21.04.38:651][867]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F3D15E8180), frame # 14867
+[2020.10.26-21.04.38:651][867]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2020.10.26-21.04.38:651][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerFiels/Level/Menulevel.Menulevel to /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel (0.002811s)
+[2020.10.26-21.04.38:674][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.10.26-21.04.38:675][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-21.04.38:675][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-21.04.38:675][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-21.04.38:675][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-21.04.38:675][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-21.04.38:675][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-21.04.38:675][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-21.04.38:675][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-21.04.38:675][867]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-21.04.38:675][867]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-21.04.38:678][867]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-21.04.38:678][867]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-21.04.38:721][867]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.10.26-21.04.38:721][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.26-21.04.38:721][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.26-21.04.38:721][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.26-21.04.38:722][867]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.26-21.04.38:738][867]LogInit: FAudioDevice initialized.
+[2020.10.26-21.04.38:818][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-21.04.38:818][867]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.26-21.04.38:821][867]LogWorld: Bringing World /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel up for play (max tick rate 60) at 2020.10.27-02.04.38
+[2020.10.26-21.04.38:821][867]LogWorld: Bringing up level for play took: 0.001259
+[2020.10.26-21.04.38:822][867]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.10.26-21.04.38:832][867]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.38:843][867]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_1.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.38:854][867]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_2.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.38:858][867]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_3.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.38:868][867]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_4.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.38:871][867]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_5.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.38:874][867]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_6.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.38:879][867]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_7.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.38:882][867]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_8.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.38:885][867]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_9.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.38:888][867]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_10.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-21.04.38:892][867]PIE: Server logged in
+[2020.10.26-21.04.38:894][867]PIE: Play in editor total start time 0,297 seconds.
+[2020.10.26-21.04.38:966][868]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.069474 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2020.10.26-21.04.51:978][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-21.04.51:979][294]LogWorld: BeginTearingDown for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel
+[2020.10.26-21.04.51:980][294]LogSlate: Window 'NeonGame Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.26-21.04.51:989][294]LogWorld: UWorld::CleanupWorld for Menulevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-21.04.51:996][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.04.52:006][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-21.04.52:011][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.04.52:075][294]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F3D15E8180), frame # 15294
+[2020.10.26-21.04.52:075][294]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F36D679400), frame # 15294
+[2020.10.26-21.04.52:077][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.10.26-21.04.52:146][295]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.10.26-21.04.54:739][402]BlueprintLog: New page: Compile Menulevel
+[2020.10.26-21.04.54:789][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.10.26-21.04.55:651][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Level/Menulevel" FILE="C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.26-21.04.55:686][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.10.26-21.04.55:711][434]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Saved/Menulevel44DBDB0349790EFF20884B9835655D6F.tmp' to 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap'
+[2020.10.26-21.04.55:743][434]LogFileHelpers: Saving map 'Menulevel' took 0.092
+[2020.10.26-21.04.55:759][434]AssetCheck: New page: Asset Save: Menulevel
+[2020.10.26-21.04.55:759][434]LogContentValidation: Display: Validating World /Game/RunnerFiels/Level/Menulevel.Menulevel
+[2020.10.26-21.06.23:203][822]BlueprintLog: New page: Compile Menulevel
+[2020.10.26-21.06.23:259][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.10.26-21.06.23:770][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Level/Menulevel" FILE="C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.26-21.06.23:809][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.10.26-21.06.23:837][841]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Saved/Menulevel004C2C604F049E1296BC86889585FDFA.tmp' to 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap'
+[2020.10.26-21.06.23:867][841]LogFileHelpers: Saving map 'Menulevel' took 0.099
+[2020.10.26-21.06.23:883][841]AssetCheck: New page: Asset Save: Menulevel
+[2020.10.26-21.06.23:883][841]LogContentValidation: Display: Validating World /Game/RunnerFiels/Level/Menulevel.Menulevel
+[2020.10.26-21.06.25:674][899]LogSlate: Window 'Menulevel' being destroyed
+[2020.10.26-21.06.25:683][899]LogSlate: Window 'Menulevel' being destroyed
+[2020.10.26-21.06.25:732][899]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-21.06.25:732][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.06.31:013][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Level/Menulevel" FILE="C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.26-21.06.31:149][  4]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.10.26-21.06.31:187][  4]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Saved/MenulevelB1F91EF94516AB9A0E320880FD0D7FA0.tmp' to 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap'
+[2020.10.26-21.06.31:223][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Level/Menulevel_BuiltData" FILE="C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel_BuiltData.uasset" SILENT=true
+[2020.10.26-21.06.31:253][  4]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Saved/Menulevel_BuiltData74E970B7441B4F0E74A6D1985A98CB4B.tmp' to 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel_BuiltData.uasset'
+[2020.10.26-21.06.31:273][  4]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.26-21.06.31:274][  4]LogContentValidation: Display: Validating World /Game/RunnerFiels/Level/Menulevel.Menulevel
+[2020.10.26-21.06.31:274][  4]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RunnerFiels/Level/Menulevel_BuiltData.Menulevel_BuiltData
+[2020.10.26-21.06.32:885][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Level/Menulevel" FILE="C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.26-21.06.32:915][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.10.26-21.06.32:942][ 79]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Saved/Menulevel1DA6438845E93344EB5D0CB36BA77D6D.tmp' to 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap'
+[2020.10.26-21.06.32:974][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Level/Menulevel_BuiltData" FILE="C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel_BuiltData.uasset" SILENT=true
+[2020.10.26-21.06.32:988][ 79]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Saved/Menulevel_BuiltDataB0A949DC459E3CF50FEB64AB0551CCA8.tmp' to 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel_BuiltData.uasset'
+[2020.10.26-21.06.33:009][ 79]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.26-21.06.33:009][ 79]LogContentValidation: Display: Validating World /Game/RunnerFiels/Level/Menulevel.Menulevel
+[2020.10.26-21.06.33:009][ 79]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RunnerFiels/Level/Menulevel_BuiltData.Menulevel_BuiltData
