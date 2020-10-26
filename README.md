@@ -39,14 +39,22 @@ Goal: собрать как можно больше очков
 
 > Interface: 
 
-Окно открывающиеся при входе  
-Окно паузы  
-Окно окоончания игры  
+### Окно открывающиеся при входе  
+
+![Окно](https://github.com/hebgehogg/NeonGame/blob/main/photos/StartGame.png)
+
+### Окно паузы  
+
+![Окно](https://github.com/hebgehogg/NeonGame/blob/main/photos/StartGame.png)
+
+### Окно окончания игры  
+
+![Окно](https://github.com/hebgehogg/NeonGame/blob/main/photos/Paused.png)
 
 
 > Gameplay map: 
 
-![Mood](https://github.com/hebgehogg/NeonGame/blob/main/photos/Gameplay%20map.jpg)
+![Gameplay map](https://github.com/hebgehogg/NeonGame/blob/main/photos/Gameplay%20map.jpg)
 
 
 > Level design: 
@@ -55,6 +63,13 @@ Goal: собрать как можно больше очков
 На каждом уровне есть "Coins', чем больше их собрал игрок - тем лучше, в игре для этого добавлен счетчик который выводит все на экран.  
 Лучший счет запоминается - хранится у пользователя на устройстве.  
 Все отображено в интерфейсе.  
+
+![Level design](https://github.com/hebgehogg/NeonGame/blob/main/photos/LevelDesign.png)
+
+Чтобы не нагружать ПК, после прохода блока персонажем - он удаляется. (максимум 10  блоков на карте)  
+Тот же механизм работает с объектами на карте  
+
+![Level design](https://github.com/hebgehogg/NeonGame/blob/main/photos/Destroy.png)
 
 
 > Balance:
@@ -66,6 +81,8 @@ Goal: собрать как можно больше очков
 
 Генирация происходит по средстам рандома, каждый элемент генерируется отдельно - Разделение между блоками(дыра)/Высокая платформа/Низкая платформа/Очки.  
 Видимость на 10 блоков.
+
+Чтобы персонаж не умирал в случае спавна блока перед ним в начале игры, была добавлена проверка "если герой на 1 платформе (в начале) то отрисовка с 10 блока".  
 
 ![Levels](https://github.com/hebgehogg/NeonGame/blob/main/photos/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B.png)
 
