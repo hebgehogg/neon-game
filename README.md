@@ -66,7 +66,8 @@ Goal: собрать как можно больше очков
 
 ![Level design](https://github.com/hebgehogg/NeonGame/blob/main/photos/LevelDesign.png)
 
-Чтобы не нагружать ПК, после прохода блока персонажем - он удаляется. (максимум 10  блоков на карте) 
+Чтобы не нагружать ПК, после прохода блока персонажем - он удаляется. (максимум 10  блоков на карте)  
+Тот же механизм работает с объектами на карте  
 
 ![Level design](https://github.com/hebgehogg/NeonGame/blob/main/photos/Destroy.png)
 
