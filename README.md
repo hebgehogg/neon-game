@@ -68,7 +68,7 @@ Goal: собрать как можно больше очков
 
 Чтобы не нагружать ПК, после прохода блока персонажем - он удаляется. (максимум 10  блоков на карте) 
 
-![Level design](![Level design](https://github.com/hebgehogg/NeonGame/blob/main/photos/LevelDesign.png))
+![Level design](https://github.com/hebgehogg/NeonGame/blob/main/photos/Destroy.png)
 
 
 > Balance:
