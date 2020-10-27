@@ -1,0 +1,1174 @@
+﻿Log file open, 10/27/20 03:28:01
+LogInit: Display: Running engine for game: NeonGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.365831
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=Bal4ss -epicuserid=4d2cdfc7bd7e47a497f8cfb3687e0368 -epiclocale=ru
+LogInit: Base Directory: D:/Epic Games/Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.26-22.28.01:536][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.26-22.28.01:536][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.26-22.28.01:536][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Engine.ini]
+[2020.10.26-22.28.01:536][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.26-22.28.01:536][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Engine.ini]
+[2020.10.26-22.28.01:536][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Engine.ini]
+[2020.10.26-22.28.01:536][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.26-22.28.01:536][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.26-22.28.01:536][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.26-22.28.01:536][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.26-22.28.01:536][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.26-22.28.01:536][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.26-22.28.01:536][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.26-22.28.01:536][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.26-22.28.01:536][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.26-22.28.01:536][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.26-22.28.01:536][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.26-22.28.01:536][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.26-22.28.01:537][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.26-22.28.01:537][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.26-22.28.01:537][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Engine.ini]
+[2020.10.26-22.28.01:537][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.26-22.28.01:537][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.26-22.28.01:537][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.26-22.28.01:537][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.26-22.28.01:537][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.26-22.28.01:537][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.26-22.28.01:537][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.26-22.28.01:537][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.26-22.28.01:537][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.26-22.28.01:537][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.26-22.28.01:537][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.26-22.28.01:537][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.26-22.28.01:537][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.26-22.28.01:537][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Engine.ini]
+[2020.10.26-22.28.01:537][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Engine.ini]
+[2020.10.26-22.28.01:540][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.26-22.28.01:540][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.28.01:540][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.26-22.28.01:541][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.26-22.28.01:542][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.26-22.28.01:542][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.26-22.28.01:542][  0]LogHAL: Display: Platform has ~ 6 GB [6336409600 / 8589934592 / 6], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.26-22.28.01:542][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.26-22.28.01:542][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.10.26-22.28.01:542][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.10.26-22.28.01:543][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.26-22.28.01:544][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/test/GitHub/NeonGame/Saved/Config/Windows/Engine.ini]
+[2020.10.26-22.28.01:545][  0]LogInit: Computer: DESKTOP-GDIUJ2N
+[2020.10.26-22.28.01:545][  0]LogInit: User: user
+[2020.10.26-22.28.01:545][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.10.26-22.28.01:545][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.26-22.28.01:545][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2020.10.26-22.28.01:545][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.26-22.28.01:545][  0]LogMemory: Process Physical Memory: 114.98 MB used, 114.99 MB peak
+[2020.10.26-22.28.01:545][  0]LogMemory: Process Virtual Memory: 95.15 MB used, 95.15 MB peak
+[2020.10.26-22.28.01:545][  0]LogMemory: Physical Memory: 3335.43 MB used,  2707.44 MB free, 6042.87 MB total
+[2020.10.26-22.28.01:545][  0]LogMemory: Virtual Memory: 5124.55 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2020.10.26-22.28.01:552][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.26-22.28.01:603][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.10.26-22.28.01:604][  0]LogInit: Using OS detected language (ru-RU).
+[2020.10.26-22.28.01:604][  0]LogInit: Using OS detected locale (ru-RU).
+[2020.10.26-22.28.01:606][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2020.10.26-22.28.01:607][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2020.10.26-22.28.01:607][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2020.10.26-22.28.01:607][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2020.10.26-22.28.01:607][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2020.10.26-22.28.01:607][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2020.10.26-22.28.01:607][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2020.10.26-22.28.01:607][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2020.10.26-22.28.01:608][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.26-22.28.01:720][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.26-22.28.01:720][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.26-22.28.02:173][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.26-22.28.02:173][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.26-22.28.02:173][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.26-22.28.02:173][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.26-22.28.02:297][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 930M' (Feature Level 11_0)
+[2020.10.26-22.28.02:297][  0]LogD3D11RHI:       2010/0/3021 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.10.26-22.28.02:311][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2020.10.26-22.28.02:311][  0]LogD3D11RHI:       128/0/3021 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.10.26-22.28.02:315][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.26-22.28.02:315][  0]LogD3D11RHI:       0/0/3021 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.26-22.28.02:315][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.26-22.28.02:397][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.26-22.28.02:397][  0]LogD3D11RHI:     GPU DeviceId: 0x1346 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.26-22.28.02:397][  0]LogWindows: EnumDisplayDevices:
+[2020.10.26-22.28.02:397][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2020.10.26-22.28.02:397][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.10.26-22.28.02:398][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.10.26-22.28.02:398][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.10.26-22.28.02:398][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 930M
+[2020.10.26-22.28.02:398][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.10.26-22.28.02:398][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.10.26-22.28.02:398][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2020.10.26-22.28.02:485][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.10.26-22.28.02:488][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.10.26-22.28.02:488][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.26-22.28.02:509][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.26-22.28.03:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.26-22.28.03:052][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.26-22.28.03:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.26-22.28.03:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.26-22.28.03:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.26-22.28.03:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.26-22.28.03:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.26-22.28.03:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.26-22.28.03:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.26-22.28.03:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.26-22.28.03:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.26-22.28.03:086][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.26-22.28.03:086][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.26-22.28.03:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.26-22.28.03:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.26-22.28.03:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.26-22.28.03:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.26-22.28.03:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.26-22.28.03:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.26-22.28.03:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.26-22.28.03:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.26-22.28.03:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.26-22.28.03:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.26-22.28.03:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.26-22.28.03:282][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.26-22.28.03:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.26-22.28.03:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.26-22.28.03:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.26-22.28.03:327][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.26-22.28.03:339][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.26-22.28.03:431][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../test/GitHub/NeonGame/Intermediate/Shaders/WorkingDirectory/12620/).
+[2020.10.26-22.28.03:431][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Temp/UnrealShaderWorkingDir/2B74607D4B9DDBB46A154E90EC672FB7/'.
+[2020.10.26-22.28.03:432][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.26-22.28.03:432][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.26-22.28.03:433][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.26-22.28.04:729][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.26-22.28.04:816][  0]LogDerivedDataCache: Loaded boot cache 0.09s 75MB C:/Users/user/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.26-22.28.04:817][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.10.26-22.28.04:817][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../test/GitHub/NeonGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.26-22.28.04:817][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.26-22.28.04:817][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../test/GitHub/NeonGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.26-22.28.04:817][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.26-22.28.04:834][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.26-22.28.04:834][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.26-22.28.04:834][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.26-22.28.04:836][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.26-22.28.04:836][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.26-22.28.04:836][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.26-22.28.04:928][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.26-22.28.04:929][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.26-22.28.04:979][  0]LogAssetRegistry: FAssetRegistry took 0.0036 seconds to start up
+[2020.10.26-22.28.05:386][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.26-22.28.05:630][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.26-22.28.05:630][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.26-22.28.05:630][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.26-22.28.05:630][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.26-22.28.05:630][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.26-22.28.05:670][  0]LogNetVersion: NeonGame 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 508936323)
+[2020.10.26-22.28.06:975][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000229310DD340), frame # 0
+[2020.10.26-22.28.06:975][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022931002AC0), frame # 0
+[2020.10.26-22.28.06:979][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022931059C00), frame # 0
+[2020.10.26-22.28.07:155][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.162140 seconds
+[2020.10.26-22.28.07:171][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.10.26-22.28.07:171][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.10.26-22.28.07:171][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.26-22.28.07:908][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.26-22.28.07:919][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.26-22.28.08:080][  0]SourceControl: Source control is disabled
+[2020.10.26-22.28.08:080][  0]SourceControl: Source control is disabled
+[2020.10.26-22.28.08:087][  0]SourceControl: Source control is disabled
+[2020.10.26-22.28.08:092][  0]SourceControl: Source control is disabled
+[2020.10.26-22.28.08:107][  0]SourceControl: Source control is disabled
+[2020.10.26-22.28.08:619][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.26-22.28.08:652][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.26-22.28.08:653][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.26-22.28.08:752][  0]LogOcInput: OculusInput pre-init called
+[2020.10.26-22.28.08:770][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.26-22.28.08:770][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.26-22.28.08:893][  0]LogEngine: Initializing Engine...
+[2020.10.26-22.28.08:896][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.26-22.28.08:896][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.10.26-22.28.08:899][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.10.26-22.28.09:140][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.26-22.28.09:155][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.26-22.28.09:155][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022938223C00), frame # 0
+[2020.10.26-22.28.09:156][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022938266480), frame # 0
+[2020.10.26-22.28.09:191][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-22.28.09:192][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-22.28.09:192][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-22.28.09:192][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-22.28.09:192][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-22.28.09:192][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-22.28.09:192][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-22.28.09:192][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-22.28.09:192][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-22.28.09:192][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-22.28.09:204][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-22.28.09:204][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-22.28.09:278][  0]LogAudioMixer: Display: Using Audio Device Динамики (USB PnP Sound Device)
+[2020.10.26-22.28.09:283][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.26-22.28.09:289][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.26-22.28.09:289][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.26-22.28.09:291][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.26-22.28.09:297][  0]LogInit: FAudioDevice initialized.
+[2020.10.26-22.28.09:298][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.26-22.28.11:039][  0]LogDerivedDataCache: Saved boot cache 1.74s 75MB C:/Users/user/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.26-22.28.11:046][  0]LogInit: Texture streaming: Enabled
+[2020.10.26-22.28.11:070][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.26-22.28.11:070][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.26-22.28.11:100][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.26-22.28.11:179][  0]LogInit: Transaction tracking system initialized
+[2020.10.26-22.28.11:212][  0]BlueprintLog: New page: Editor Load
+[2020.10.26-22.28.11:315][  0]LocalizationService: Localization service is disabled
+[2020.10.26-22.28.11:871][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.26-22.28.11:871][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.26-22.28.12:119][  0]LogFileCache: Scanning file cache for directory 'D:/test/GitHub/NeonGame/Content/' took 0.01s
+[2020.10.26-22.28.12:722][  0]SourceControl: Source control is disabled
+[2020.10.26-22.28.12:722][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.621
+[2020.10.26-22.28.12:722][  0]Cmd: MAP LOAD FILE="../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.26-22.28.12:723][  0]LightingResults: New page: Lighting Build
+[2020.10.26-22.28.12:724][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.28.12:724][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.28.12:724][  0]MapCheck: New page: Map Check
+[2020.10.26-22.28.12:724][  0]LightingResults: New page: Lighting Build
+[2020.10.26-22.28.12:736][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022938223C00), frame # 0
+[2020.10.26-22.28.12:736][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022938266480), frame # 0
+[2020.10.26-22.28.12:738][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.10.26-22.28.13:346][  0]LogAIModule: Creating AISystem for world Menulevel
+[2020.10.26-22.28.13:346][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022924593E00), frame # 0
+[2020.10.26-22.28.13:346][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022923454680), frame # 0
+[2020.10.26-22.28.13:348][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.26-22.28.13:366][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.10.26-22.28.13:370][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.26-22.28.13:370][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,157ms to complete.
+[2020.10.26-22.28.13:370][  0]LogFileHelpers: Loading map 'Menulevel' took 0.648
+[2020.10.26-22.28.13:374][  0]LogUnrealEdMisc: Total Editor Startup Time, took 15.273
+[2020.10.26-22.28.13:575][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.28.13:586][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.28.13:599][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.28.13:610][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.28.13:620][  0]LogCollectionManager: Loaded 0 collections in 0.001661 seconds
+[2020.10.26-22.28.13:649][  0]LogFileCache: Scanning file cache for directory 'D:/test/GitHub/NeonGame/Saved/Collections/' took 0.00s
+[2020.10.26-22.28.13:649][  0]LogFileCache: Scanning file cache for directory 'D:/test/GitHub/NeonGame/Content/Developers/user/Collections/' took 0.00s
+[2020.10.26-22.28.13:649][  0]LogFileCache: Scanning file cache for directory 'D:/test/GitHub/NeonGame/Content/Collections/' took 0.00s
+[2020.10.26-22.28.13:649][  0]LogContentBrowser: Native class hierarchy populated in 0.0174 seconds. Added 3427 classes and 821 folders.
+[2020.10.26-22.28.13:652][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.26-22.28.13:783][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.26-22.28.13:784][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2020.10.26-22.28.13:931][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.26-22.28.13:931][  0]LogLoad: (Engine Initialization) Total time: 15.83 seconds
+[2020.10.26-22.28.13:931][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.26-22.28.14:003][  0]LogAssetRegistry: Asset discovery search completed in 9.0249 seconds
+[2020.10.26-22.28.14:010][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2020.10.26-22.28.14:011][  0]LogContentStreaming: Texture pool size now 600 MB
+[2020.10.26-22.28.14:020][  0]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.26-22.28.14:022][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.26-22.28.14:029][  0]LogSlate: Took 0.000371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.26-22.28.14:350][  0]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.26-22.28.14:383][  1]LogRenderer: Reallocating scene render targets to support 720x380 Format 9 NumSamples 1 (Frame:1).
+[2020.10.26-22.28.15:328][  5]LogSlate: Took 0.000476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.26-22.28.18:563][107]LogRenderer: Reallocating scene render targets to support 772x396 Format 9 NumSamples 1 (Frame:101).
+[2020.10.26-22.28.21:411][267]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RunnerFiels/RunBlock/MasterRunBlock.MasterRunBlock
+[2020.10.26-22.28.21:705][267]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 125 classes and 0 folders.
+[2020.10.26-22.28.22:991][267]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RunnerFiels/Objects/Coins/Coin.Coin
+[2020.10.26-22.28.23:607][267]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.10.26-22.28.24:106][267]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RunnerFiels/Objects/MultScore/MultScore.MultScore
+[2020.10.26-22.28.24:608][267]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/RunnerFiels/RunBlock/HUD.HUD
+[2020.10.26-22.28.25:114][267]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.28.25:590][267]LogSlate: Took 0.000472 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.26-22.28.25:717][268]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.26-22.28.29:064][455]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.28.29:064][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.28.32:450][641]LogSlate: Window 'HUD' being destroyed
+[2020.10.26-22.29.19:208][412]LogSlate: Took 0.000636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.26-22.29.51:524][341]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.10.26-22.29.54:536][516]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2020.10.26-22.29.54:703][516]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2020.10.26-22.29.54:713][516]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.29.54:720][516]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.29.54:720][516]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.29.54:724][516]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.29.54:749][516]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.29.54:756][516]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.29.54:756][516]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.29.54:760][516]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.31.52:507][518]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.26-22.32.17:532][983]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.26-22.32.26:641][520]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.26-22.32.32:348][850]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.26-22.33.35:818][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/RunBlock/HUD" FILE="../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/RunBlock/HUD.uasset" SILENT=true
+[2020.10.26-22.33.35:885][605]LogSavePackage: Moving '../../../../../../test/GitHub/NeonGame/Saved/HUD486691664DECCB7BF2237397C2B1CC1E.tmp' to '../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/RunBlock/HUD.uasset'
+[2020.10.26-22.33.35:916][605]AssetCheck: New page: Asset Save: HUD
+[2020.10.26-22.33.35:916][605]LogContentValidation: Display: Validating WidgetBlueprint /Game/RunnerFiels/RunBlock/HUD.HUD
+[2020.10.26-22.33.40:230][854]LogUObjectHash: Compacting FUObjectHashTables data took  12.60ms
+[2020.10.26-22.33.40:276][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode" FILE="../../../../../../test/GitHub/NeonGame/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" SILENT=true
+[2020.10.26-22.33.40:323][854]LogSavePackage: Moving '../../../../../../test/GitHub/NeonGame/Saved/ThirdPersonGameMode12E574324FEC8E96C1F3B299B14FB80E.tmp' to '../../../../../../test/GitHub/NeonGame/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2020.10.26-22.33.40:408][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Objects/MultScore/MultScore" FILE="../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/Objects/MultScore/MultScore.uasset" SILENT=true
+[2020.10.26-22.33.40:478][854]LogSavePackage: Moving '../../../../../../test/GitHub/NeonGame/Saved/MultScore5D9ECA01448F44C97E85B6B7B73AF6DA.tmp' to '../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/Objects/MultScore/MultScore.uasset'
+[2020.10.26-22.33.40:563][854]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.26-22.33.40:563][854]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.10.26-22.33.40:563][854]LogContentValidation: Display: Validating Blueprint /Game/RunnerFiels/Objects/MultScore/MultScore.MultScore
+[2020.10.26-22.35.36:537][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/RunBlock/HUD" FILE="../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/RunBlock/HUD.uasset" SILENT=true
+[2020.10.26-22.35.36:565][772]LogSavePackage: Moving '../../../../../../test/GitHub/NeonGame/Saved/HUDFD24797C4682F9C0145A82BA483486BE.tmp' to '../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/RunBlock/HUD.uasset'
+[2020.10.26-22.35.36:585][772]AssetCheck: New page: Asset Save: HUD
+[2020.10.26-22.35.36:585][772]LogContentValidation: Display: Validating WidgetBlueprint /Game/RunnerFiels/RunBlock/HUD.HUD
+[2020.10.26-22.44.48:683][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Objects/MultScore/MultScore" FILE="../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/Objects/MultScore/MultScore.uasset" SILENT=true
+[2020.10.26-22.44.48:777][485]LogSavePackage: Moving '../../../../../../test/GitHub/NeonGame/Saved/MultScore7CCC4987471E93593EB86EB37472EBC1.tmp' to '../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/Objects/MultScore/MultScore.uasset'
+[2020.10.26-22.44.48:802][485]AssetCheck: New page: Asset Save: MultScore
+[2020.10.26-22.44.48:802][485]LogContentValidation: Display: Validating Blueprint /Game/RunnerFiels/Objects/MultScore/MultScore.MultScore
+[2020.10.26-22.44.49:095][503]BlueprintLog: New page: Compile MultScore
+[2020.10.26-22.44.49:290][503]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2020.10.26-22.44.49:310][503]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.49:317][503]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.49:317][503]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.49:321][503]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.49:343][503]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.49:350][503]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.49:350][503]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.49:352][503]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.50:154][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Objects/MultScore/MultScore" FILE="../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/Objects/MultScore/MultScore.uasset" SILENT=true
+[2020.10.26-22.44.50:196][545]LogSavePackage: Moving '../../../../../../test/GitHub/NeonGame/Saved/MultScoreC757E7CB4BD43C87A19634B7B8A4404A.tmp' to '../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/Objects/MultScore/MultScore.uasset'
+[2020.10.26-22.44.50:215][545]AssetCheck: New page: Asset Save: MultScore
+[2020.10.26-22.44.50:215][545]LogContentValidation: Display: Validating Blueprint /Game/RunnerFiels/Objects/MultScore/MultScore.MultScore
+[2020.10.26-22.44.58:771][ 36]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.26-22.44.58:803][ 36]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.26-22.44.58:806][ 36]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2020.10.26-22.44.58:930][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.10.26-22.44.58:933][ 36]LogPlayLevel: PlayLevel: Blueprint regeneration took 130 ms (1 blueprints)
+[2020.10.26-22.44.58:936][ 36]PIE: New page: PIE session: Menulevel (27 окт. 2020 г., 08:44:58)
+[2020.10.26-22.44.58:942][ 36]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.10.26-22.44.58:944][ 36]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.10.26-22.44.58:944][ 36]LogPlayLevel: Creating play world package: /Game/RunnerFiels/Level/UEDPIE_0_Menulevel
+[2020.10.26-22.44.58:949][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004684s)
+[2020.10.26-22.44.58:952][ 36]LogAIModule: Creating AISystem for world Menulevel
+[2020.10.26-22.44.58:952][ 36]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000229973D2E00), frame # 58036
+[2020.10.26-22.44.58:952][ 36]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000229A6D6F240), frame # 58036
+[2020.10.26-22.44.58:953][ 36]LogPlayLevel: PIE: World Init took: (0.003603s)
+[2020.10.26-22.44.58:953][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerFiels/Level/Menulevel.Menulevel to /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel (0.008985s)
+[2020.10.26-22.44.59:002][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.10.26-22.44.59:004][ 36]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-22.44.59:004][ 36]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-22.44.59:004][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-22.44.59:004][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-22.44.59:004][ 36]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-22.44.59:004][ 36]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-22.44.59:004][ 36]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-22.44.59:004][ 36]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-22.44.59:005][ 36]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-22.44.59:005][ 36]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-22.44.59:009][ 36]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-22.44.59:009][ 36]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-22.44.59:036][ 36]LogAudioMixer: Display: Using Audio Device Динамики (USB PnP Sound Device)
+[2020.10.26-22.44.59:036][ 36]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.26-22.44.59:036][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.26-22.44.59:036][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.26-22.44.59:038][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.26-22.44.59:062][ 36]LogInit: FAudioDevice initialized.
+[2020.10.26-22.44.59:110][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.44.59:110][ 36]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.26-22.44.59:112][ 36]LogWorld: Bringing World /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel up for play (max tick rate 60) at 2020.10.27-03.44.59
+[2020.10.26-22.44.59:112][ 36]LogWorld: Bringing up level for play took: 0.000732
+[2020.10.26-22.44.59:112][ 36]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.10.26-22.44.59:142][ 36]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0025 seconds. Added 20 classes and 0 folders.
+[2020.10.26-22.44.59:151][ 36]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.59:156][ 36]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_1.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.59:160][ 36]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_2.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.59:164][ 36]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_3.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.59:171][ 36]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_4.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.59:177][ 36]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_5.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.59:184][ 36]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_6.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.59:190][ 36]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_7.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.59:194][ 36]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_8.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.59:199][ 36]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_9.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.59:203][ 36]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_10.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.44.59:220][ 36]PIE: Server logged in
+[2020.10.26-22.44.59:221][ 36]PIE: Play in editor total start time 0,421 seconds.
+[2020.10.26-22.45.00:025][ 37]LogRenderer: Reallocating scene render targets to support 912x496 Format 9 NumSamples 1 (Frame:1).
+[2020.10.26-22.45.00:025][ 37]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059412 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2020.10.26-22.45.00:050][ 38]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_11.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.01:258][ 78]LogNet: Browse: /Game/RunnerFiels/Level/FirstLevel
+[2020.10.26-22.45.01:259][ 78]LogLoad: LoadMap: /Game/RunnerFiels/Level/FirstLevel
+[2020.10.26-22.45.01:259][ 78]LogWorld: BeginTearingDown for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel
+[2020.10.26-22.45.01:260][ 78]LogWorld: UWorld::CleanupWorld for Menulevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.45.01:263][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.45.01:377][ 78]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000229A6D6F240), frame # 58078
+[2020.10.26-22.45.01:377][ 78]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000229973D2E00), frame # 58078
+[2020.10.26-22.45.01:522][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2020.10.26-22.45.01:554][ 78]LogAIModule: Creating AISystem for world FirstLevel
+[2020.10.26-22.45.01:554][ 78]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022995FFCA00), frame # 58078
+[2020.10.26-22.45.01:554][ 78]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022970B3AAC0), frame # 58078
+[2020.10.26-22.45.01:554][ 78]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.26-22.45.01:557][ 78]LogWorld: Bringing World /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 60) at 2020.10.27-03.45.01
+[2020.10.26-22.45.01:558][ 78]LogWorld: Bringing up level for play took: 0.002027
+[2020.10.26-22.45.01:562][ 78]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.01:569][ 78]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_1.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.01:573][ 78]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_2.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.01:578][ 78]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_3.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.01:585][ 78]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_4.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.01:591][ 78]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_5.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.01:595][ 78]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_6.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.01:601][ 78]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_7.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.01:606][ 78]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_8.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.01:610][ 78]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_9.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.01:618][ 78]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_10.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.01:623][ 78]LogLoad: Took 0.364261 seconds to LoadMap(/Game/RunnerFiels/Level/FirstLevel)
+[2020.10.26-22.45.01:653][ 79]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063491 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2020.10.26-22.45.01:849][ 82]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_11.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.02:658][115]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_12.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.03:493][149]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_13.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.04:334][183]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_14.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.05:168][217]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_15.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.06:011][252]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_16.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.06:824][286]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_17.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.07:661][321]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_18.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.08:502][356]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_19.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.09:329][390]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_20.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.10:179][425]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_21.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.11:002][459]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_22.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.11:830][493]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_23.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.12:670][528]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_24.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.13:512][563]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_25.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.14:334][597]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_26.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.15:158][631]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_27.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.16:002][666]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_28.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.16:848][701]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_29.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.17:673][735]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_30.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.18:504][769]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_31.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.19:337][803]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_32.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.20:165][837]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_33.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.21:005][872]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_34.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.21:838][906]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_35.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.22:662][940]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_36.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.23:512][975]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_37.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.24:340][  9]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_38.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.25:160][ 43]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_39.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.26:011][ 78]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_40.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.26:839][112]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_41.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.27:667][146]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_42.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.28:499][180]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_43.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.29:337][215]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_44.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.30:169][250]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_45.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.30:996][284]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_46.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.31:830][319]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_47.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.32:667][354]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_48.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.33:511][389]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_49.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.34:332][423]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_50.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.35:175][458]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_51.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.36:001][493]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_52.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.36:831][527]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_53.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.37:660][561]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_54.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.38:511][596]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_55.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.39:336][630]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_56.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.40:161][664]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_57.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.41:004][699]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_58.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.41:844][734]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_59.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.42:665][768]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_60.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.43:507][803]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_61.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.44:343][838]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_62.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.45:161][872]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_63.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.46:001][907]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_64.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.46:839][942]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_65.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.47:679][977]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_66.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.48:493][ 11]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_67.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.49:331][ 46]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_68.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.50:163][ 81]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_69.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.50:996][116]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_70.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.51:845][152]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_71.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.52:663][187]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_72.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.53:499][222]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_73.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.54:345][257]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_74.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.55:166][291]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_75.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.56:012][326]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_76.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.56:835][360]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_77.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.57:661][394]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_78.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.58:499][429]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_79.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.45.59:341][464]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_80.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.00:197][489]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_81.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.01:007][521]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_82.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.01:829][556]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_83.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.02:678][592]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_84.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.03:507][627]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_85.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.04:329][661]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_86.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.05:173][696]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_87.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.05:992][730]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_88.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.06:837][765]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_89.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.07:666][799]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_90.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.08:512][834]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_91.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.09:333][868]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_92.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.10:176][903]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_93.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.11:000][937]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_94.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.11:827][971]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_95.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.12:670][  7]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_96.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.13:497][ 41]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_97.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.14:333][ 76]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_98.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.15:179][111]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_99.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.16:011][146]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_100.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.16:836][181]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_101.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.17:665][216]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_102.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.18:494][251]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_103.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.19:327][286]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_104.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.20:178][321]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_105.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.20:993][355]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_106.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.21:834][390]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_107.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.22:681][425]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_108.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.23:506][459]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_109.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.24:331][493]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_110.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.25:161][528]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_111.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.26:003][564]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_112.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.26:847][600]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_113.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.27:662][634]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_114.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.46.27:701][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.46.27:701][634]LogWorld: BeginTearingDown for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel
+[2020.10.26-22.46.27:701][634]LogSlate: Window 'NeonGame Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.26-22.46.27:711][634]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.46.27:717][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.46.27:731][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-22.46.27:738][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.46.27:828][634]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022970B3AAC0), frame # 61634
+[2020.10.26-22.46.27:828][634]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022995FFCA00), frame # 61634
+[2020.10.26-22.46.27:836][634]LogUObjectHash: Compacting FUObjectHashTables data took   7.63ms
+[2020.10.26-22.46.27:884][635]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.10.26-22.54.46:267][829]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.26-22.54.46:267][829]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.26-22.57.33:179][475]LogUObjectHash: Compacting FUObjectHashTables data took   9.29ms
+[2020.10.26-22.57.33:194][475]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RunnerFiels/Level/Menulevel' took 0.613
+[2020.10.26-22.57.33:449][475]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunnerFiels/Objects/MultScore/MultScore] ([1] browsable assets)...
+[2020.10.26-22.57.33:499][475]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RunnerFiels/Objects/MultScore/MultScore.MultScore]
+[2020.10.26-22.57.33:499][475]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunnerFiels/Objects/MultScore/MultScore]
+[2020.10.26-22.57.34:832][475]LogSavePackage: Moving '../../../../../../test/GitHub/NeonGame/Saved/MultScore_Auto111ECD3464133CDE5F2D7469D2EC7FE8E.tmp' to '../../../../../../test/GitHub/NeonGame/Saved/Autosaves/Game/RunnerFiels/Objects/MultScore/MultScore_Auto1.uasset'
+[2020.10.26-22.57.34:833][475]LogFileHelpers: Auto-saving content packages took 1.633
+[2020.10.26-22.58.56:260][320]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.10.26-22.58.56:318][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Objects/MultScore/MultScore" FILE="../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/Objects/MultScore/MultScore.uasset" SILENT=true
+[2020.10.26-22.58.56:478][320]LogSavePackage: Moving '../../../../../../test/GitHub/NeonGame/Saved/MultScore4D41A5CD4FC3897659C6A5B059BE18A6.tmp' to '../../../../../../test/GitHub/NeonGame/Content/RunnerFiels/Objects/MultScore/MultScore.uasset'
+[2020.10.26-22.58.56:759][320]AssetCheck: New page: Asset Save: MultScore
+[2020.10.26-22.58.56:759][320]LogContentValidation: Display: Validating Blueprint /Game/RunnerFiels/Objects/MultScore/MultScore.MultScore
+[2020.10.26-22.58.58:073][386]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.26-22.58.58:376][386]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.26-22.58.58:439][386]LogPlayLevel: [PlayLevel] Compiling MultScore before play...
+[2020.10.26-22.58.58:505][386]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.58:515][386]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.58:515][386]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.58:517][386]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.58:545][386]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.58:554][386]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.58:554][386]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.58:556][386]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.58:756][386]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2020.10.26-22.58.58:759][386]LogPlayLevel: PlayLevel: Blueprint regeneration took 382 ms (1 blueprints)
+[2020.10.26-22.58.58:760][386]PIE: New page: PIE session: Menulevel (27 окт. 2020 г., 08:58:58)
+[2020.10.26-22.58.58:760][386]LogPlayLevel: Creating play world package: /Game/RunnerFiels/Level/UEDPIE_0_Menulevel
+[2020.10.26-22.58.58:767][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006502s)
+[2020.10.26-22.58.58:769][386]LogAIModule: Creating AISystem for world Menulevel
+[2020.10.26-22.58.58:769][386]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022991635400), frame # 74386
+[2020.10.26-22.58.58:770][386]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000229B0F95D00), frame # 74386
+[2020.10.26-22.58.58:771][386]LogPlayLevel: PIE: World Init took: (0.004481s)
+[2020.10.26-22.58.58:771][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerFiels/Level/Menulevel.Menulevel to /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel (0.011321s)
+[2020.10.26-22.58.58:820][386]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.10.26-22.58.58:821][386]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-22.58.58:821][386]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-22.58.58:821][386]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-22.58.58:822][386]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-22.58.58:822][386]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-22.58.58:822][386]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-22.58.58:822][386]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-22.58.58:822][386]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-22.58.58:823][386]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-22.58.58:824][386]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-22.58.58:828][386]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-22.58.58:828][386]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-22.58.58:854][386]LogAudioMixer: Display: Using Audio Device Динамики (USB PnP Sound Device)
+[2020.10.26-22.58.58:857][386]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.26-22.58.58:857][386]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.26-22.58.58:857][386]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.26-22.58.58:861][386]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.26-22.58.58:885][386]LogInit: FAudioDevice initialized.
+[2020.10.26-22.58.58:991][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.58.58:992][386]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.26-22.58.58:993][386]LogWorld: Bringing World /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel up for play (max tick rate 60) at 2020.10.27-03.58.58
+[2020.10.26-22.58.58:994][386]LogWorld: Bringing up level for play took: 0.001629
+[2020.10.26-22.58.59:020][386]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.10.26-22.58.59:032][386]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.59:038][386]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_1.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.59:042][386]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_2.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.59:047][386]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_3.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.59:051][386]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_4.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.59:055][386]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_5.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.59:058][386]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_6.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.59:062][386]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_7.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.59:066][386]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_8.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.59:069][386]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_9.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.59:073][386]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_10.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.58.59:135][386]PIE: Server logged in
+[2020.10.26-22.58.59:137][386]PIE: Play in editor total start time 0,762 seconds.
+[2020.10.26-22.58.59:376][387]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059391 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2020.10.26-22.59.00:695][431]LogNet: Browse: /Game/RunnerFiels/Level/FirstLevel
+[2020.10.26-22.59.00:695][431]LogLoad: LoadMap: /Game/RunnerFiels/Level/FirstLevel
+[2020.10.26-22.59.00:695][431]LogWorld: BeginTearingDown for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel
+[2020.10.26-22.59.00:696][431]LogWorld: UWorld::CleanupWorld for Menulevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.59.00:700][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.59.00:767][431]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000229B0F95D00), frame # 74431
+[2020.10.26-22.59.00:767][431]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022991635400), frame # 74431
+[2020.10.26-22.59.00:771][431]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.10.26-22.59.00:784][431]LogAIModule: Creating AISystem for world FirstLevel
+[2020.10.26-22.59.00:784][431]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000229A0337A00), frame # 74431
+[2020.10.26-22.59.00:784][431]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022999CECA40), frame # 74431
+[2020.10.26-22.59.00:784][431]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.26-22.59.00:787][431]LogWorld: Bringing World /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 60) at 2020.10.27-03.59.00
+[2020.10.26-22.59.00:787][431]LogWorld: Bringing up level for play took: 0.001491
+[2020.10.26-22.59.00:791][431]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.59.00:795][431]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_1.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.59.00:800][431]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_2.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.59.00:804][431]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_3.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.59.00:808][431]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_4.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.59.00:813][431]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_5.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.59.00:818][431]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_6.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.59.00:821][431]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_7.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.59.00:828][431]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_8.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.59.00:835][431]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_9.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.59.00:841][431]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_10.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.26-22.59.00:848][431]LogLoad: Took 0.152546 seconds to LoadMap(/Game/RunnerFiels/Level/FirstLevel)
+[2020.10.26-22.59.03:024][433]LogD3D11RHI: Error: Direct3DDevice->CreateTexture2D(TextureDesc,SubResourceData,OutTexture2D) failed 
+ at D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Texture.cpp:480 
+ with error E_OUTOFMEMORY, 
+ Size=1024x1024x1 PF=2 D3DFormat=DXGI_FORMAT_B8G8R8A8_TYPELESS(0x0000005A), NumMips=1, Flags=D3D11_BIND_RENDER_TARGET D3D11_BIND_SHADER_RESOURCE , Usage:0x0, CPUFlags:0x0, MiscFlags:0x0, SampleCount:0x1, SampleQuality:0x0, SubresPtr:0x0000000000000000, SubresPitch:0, SubresSlicePitch:0
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     74 = 3534 KB (2D 912x496 PF_FloatRGBA RT UAV) LightAccumulation
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     71 = 2209 KB (2D 912x496 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     70 = 1105 KB (2D 456x248 PF_DepthStencil) SmallDepthZ
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     64 = 884 KB (2D 912x248 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     69 = 442 KB (2D 912x496 PF_G8 RT UAV) ScreenSpaceAO
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     32 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:      2 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     33 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:      4 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     30 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:      3 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     31 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:      1 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     68 = 256 KB (3D 32x32x32 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     66 = 256 KB (3D 32x32x32 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     72 = 256 KB (3D 32x32x32 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     67 = 256 KB (3D 32x32x32 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     65 = 256 KB (3D 32x32x32 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     73 = 256 KB (3D 32x32x32 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     54 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     47 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     11 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     42 = 49 KB (2D 98x64 PF_A16B16G16R16) SSProfiles
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     22 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     18 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     23 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     19 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     20 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     44 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.10.26-22.59.08:485][433]LogConsoleResponse:     46 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.10.26-22.59.08:486][433]LogConsoleResponse:     24 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.10.26-22.59.08:486][433]LogConsoleResponse:     55 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.10.26-22.59.08:486][433]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2020.10.26-22.59.08:486][433]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2020.10.26-22.59.08:486][433]LogConsoleResponse:     10 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2020.10.26-22.59.08:486][433]LogConsoleResponse:      9 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2020.10.26-22.59.08:486][433]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2020.10.26-22.59.08:486][433]LogConsoleResponse:     13 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2020.10.26-22.59.08:486][433]LogConsoleResponse:     12 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2020.10.26-22.59.08:486][433]LogConsoleResponse:     15 = 1 KB (2D 1x1 PF_FloatRGBA RT) MidGreyDummy
+[2020.10.26-22.59.08:486][433]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_R32_UINT RT) ZeroUIntDummy
+[2020.10.26-22.59.08:486][433]LogConsoleResponse:     14 = 1 KB (2D 1x1 PF_R8G8B8A8_UINT RT) StencilDummy
+[2020.10.26-22.59.08:486][433]LogConsoleResponse:     16 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2020.10.26-22.59.08:486][433]LogConsoleResponse:     21 = 1 KB (2D 4x4 PF_R8G8B8A8) GTAORandomization
+[2020.10.26-22.59.08:486][433]LogConsoleResponse:     17 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) VolumetricBlackDummy
+[2020.10.26-22.59.08:486][433]LogConsoleResponse: 
+[2020.10.26-22.59.08:486][433]LogConsoleResponse: Pool: 12/12 MB (referenced/allocated)
+[2020.10.26-22.59.08:521][433]Cmd: rhi.DumpMemory
+[2020.10.26-22.59.10:940][433]RHI resource memory (not tracked by our allocator)
+[2020.10.26-22.59.10:940][433]        16711680  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.10:940][433]         2956374  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.10:940][433]         1625496  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.10:940][433]         1960320  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.10:940][433]        23134260  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.10:940][433]           24652  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.10:940][433]       669496361  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.10:940][433]       126640860  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.10:940][433]         4187104  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.10:940][433]         7434452  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.10:940][433]814.602MB total
+[2020.10.26-22.59.10:975][433]Cmd: Mem FromReport
+[2020.10.26-22.59.11:048][433]LogMemory: Platform Memory Stats for Windows
+[2020.10.26-22.59.11:048][433]LogMemory: Process Physical Memory: 461.37 MB used, 1374.66 MB peak
+[2020.10.26-22.59.11:048][433]LogMemory: Process Virtual Memory: 2630.18 MB used, 2649.21 MB peak
+[2020.10.26-22.59.11:048][433]LogMemory: Physical Memory: 4856.96 MB used,  1185.91 MB free, 6042.87 MB total
+[2020.10.26-22.59.11:048][433]LogMemory: Virtual Memory: 9197.63 MB used,  134208528.00 MB free, 134217728.00 MB total
+[2020.10.26-22.59.11:048][433]LogMemory: 
+[2020.10.26-22.59.11:066][433]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.10.26-22.59.11:066][433]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.10.26-22.59.11:067][433]Allocator Stats for TBB: (not implemented)
+[2020.10.26-22.59.11:067][433]LogMemory: Memory Stats:
+[2020.10.26-22.59.11:067][433]LogMemory: FMemStack (gamethread) current size = 0.00 MB
+[2020.10.26-22.59.11:067][433]LogMemory: FPageAllocator (all threads) allocation size [used/ unused] = [0.25 / 0.19] MB
+[2020.10.26-22.59.11:067][433]LogMemory: Nametable memory usage = 6.20 MB
+[2020.10.26-22.59.11:163][433]LogMemory: AssetRegistry memory usage = 8.55 MB
+[2020.10.26-22.59.11:169][433]LogMemory:           114464  -  Light interaction memory - STAT_LightInteractionMemory - STATGROUP_SceneMemory - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:          1136624  -  Rendering mem stack memory - STAT_RenderingMemStackMemory - STATGROUP_SceneMemory - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:            40120  -  ViewState memory - STAT_ViewStateMemory - STATGROUP_SceneMemory - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:           154584  -  Scene memory - STAT_RenderingSceneMemory - STATGROUP_SceneMemory - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:           828652  -  Primitive memory - STAT_PrimitiveInfoMemory - STATGROUP_SceneMemory - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:         16711680  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:          2956374  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:          1625496  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:          1960320  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:         23134260  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:            24652  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:        669496361  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:        126640860  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:          4187104  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:          7434452  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:            54272  -  Audio Memory Used - STAT_AudioMemory - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:                0  -  MemStack Large Block - STAT_MemStackLargeBLock - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:          1151104  -  SkeletalMesh Vertex Memory - STAT_SkeletalMeshVertexMemory - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:          1767150  -  SkeletalMesh Index Memory - STAT_SkeletalMeshIndexMemory - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:             6000  -  Persistent Uber Graph Frame memory - STAT_PersistentUberGraphFrameMemory - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:           393216  -  PageAllocator Used - STAT_PageAllocatorUsed - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:          1441792  -  PageAllocator Free - STAT_PageAllocatorFree - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:           179240  -  Navigation Memory - STAT_NavigationMemory - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:169][433]LogMemory:          2162984  -  StaticMesh Total Memory - STAT_StaticMeshTotalMemory - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:        108953300  -  Texture Memory Used - STAT_TextureMemory - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:          8158853  -  VertexShader Memory - STAT_VertexShaderMemory - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:         11886751  -  PixelShader Memory - STAT_PixelShaderMemory - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:         17816216  -  Used Streaming Pool [Wanted] - MCR_UsedStreamingPool - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:        629145600  -  Streaming Texture Pool [Streaming] - MCR_StreamingPool - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:        629145600  -  Texture Memory Pool [Texture] - MCR_TexturePool - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  GPU Memory Pool [GPU] - MCR_GPU - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  Total Physical Memory Pool (CPU + GPU) [PhysicalLLM] - MCR_PhysicalLLM - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  Physical Memory Pool [Physical] - MCR_Physical - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:          5425538  -  ICU Data File Memory Used - STAT_MemoryICUDataFileAllocationSize - STATGROUP_Memory - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Project15 - STAT_TEXTUREGROUP_Project15 - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Project14 - STAT_TEXTUREGROUP_Project14 - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Project13 - STAT_TEXTUREGROUP_Project13 - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Project12 - STAT_TEXTUREGROUP_Project12 - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Project11 - STAT_TEXTUREGROUP_Project11 - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Project10 - STAT_TEXTUREGROUP_Project10 - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Project09 - STAT_TEXTUREGROUP_Project09 - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Project08 - STAT_TEXTUREGROUP_Project08 - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Project07 - STAT_TEXTUREGROUP_Project07 - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Project06 - STAT_TEXTUREGROUP_Project06 - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Project05 - STAT_TEXTUREGROUP_Project05 - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Project04 - STAT_TEXTUREGROUP_Project04 - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Project03 - STAT_TEXTUREGROUP_Project03 - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Project02 - STAT_TEXTUREGROUP_Project02 - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Project01 - STAT_TEXTUREGROUP_Project01 - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_16BitData - STAT_TEXTUREGROUP_16BitData - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_8BitData - STAT_TEXTUREGROUP_8BitData - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_ImpostorNormalDepth - STAT_TEXTUREGROUP_ImpostorNormalDepth - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Impostor - STAT_TEXTUREGROUP_Impostor - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_HierarchicalLOD - STAT_TEXTUREGROUP_HierarchicalLOD - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Pixels2D - STAT_TEXTUREGROUP_Pixels2D - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_IESLightProfile - STAT_TEXTUREGROUP_IESLightProfile - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:            21844  -  TEXTUREGROUP_Bokeh - STAT_TEXTUREGROUP_Bokeh - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Terrain_Weightmap - STAT_TEXTUREGROUP_Terrain_Weightmap - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_Terrain_Heightmap - STAT_TEXTUREGROUP_Terrain_Heightmap - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:170][433]LogMemory:                0  -  TEXTUREGROUP_ColorLookupTable - STAT_TEXTUREGROUP_ColorLookupTable - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:                0  -  TEXTUREGROUP_Shadowmap - STAT_TEXTUREGROUP_Shadowmap - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:                0  -  TEXTUREGROUP_ProcBuilding_LightMap - STAT_TEXTUREGROUP_ProcBuilding_LightMap - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:                0  -  TEXTUREGROUP_ProcBuilding_Face - STAT_TEXTUREGROUP_ProcBuilding_Face - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:                0  -  TEXTUREGROUP_MobileFlattened - STAT_TEXTUREGROUP_MobileFlattened - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:                0  -  TEXTUREGROUP_RenderTarget - STAT_TEXTUREGROUP_RenderTarget - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:                0  -  TEXTUREGROUP_Lightmap - STAT_TEXTUREGROUP_Lightmap - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:          3466836  -  TEXTUREGROUP_UI - STAT_TEXTUREGROUP_UI - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:                0  -  TEXTUREGROUP_Skybox - STAT_TEXTUREGROUP_Skybox - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:                0  -  TEXTUREGROUP_EffectsNotFiltered - STAT_TEXTUREGROUP_EffectsNotFiltered - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:            32764  -  TEXTUREGROUP_Effects - STAT_TEXTUREGROUP_Effects - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:                0  -  TEXTUREGROUP_Cinematic - STAT_TEXTUREGROUP_Cinematic - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:                0  -  TEXTUREGROUP_VehicleSpecular - STAT_TEXTUREGROUP_VehicleSpecular - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:                0  -  TEXTUREGROUP_VehicleNormalMap - STAT_TEXTUREGROUP_VehicleNormalMap - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:                0  -  TEXTUREGROUP_Vehicle - STAT_TEXTUREGROUP_Vehicle - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:                0  -  TEXTUREGROUP_WeaponSpecular - STAT_TEXTUREGROUP_WeaponSpecular - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:                0  -  TEXTUREGROUP_WeaponNormalMap - STAT_TEXTUREGROUP_WeaponNormalMap - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:                0  -  TEXTUREGROUP_Weapon - STAT_TEXTUREGROUP_Weapon - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:                0  -  TEXTUREGROUP_CharacterSpecular - STAT_TEXTUREGROUP_CharacterSpecular - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:            10976  -  TEXTUREGROUP_CharacterNormalMap - STAT_TEXTUREGROUP_CharacterNormalMap - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:             8232  -  TEXTUREGROUP_Character - STAT_TEXTUREGROUP_Character - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:                0  -  TEXTUREGROUP_WorldSpecular - STAT_TEXTUREGROUP_WorldSpecular - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:         12697844  -  TEXTUREGROUP_WorldNormalMap - STAT_TEXTUREGROUP_WorldNormalMap - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:171][433]LogMemory:         92714804  -  TEXTUREGROUP_World - STAT_TEXTUREGROUP_World - STATGROUP_TextureGroup - STATCAT_Advanced
+[2020.10.26-22.59.11:653][433]Log file closed, 10/27/20 03:59:11
