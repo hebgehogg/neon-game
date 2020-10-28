@@ -79,7 +79,7 @@ Goal: побить свой же рекорд (или установить но
 ![Level design](https://github.com/hebgehogg/NeonGame/blob/main/photos/LevelDesign.png)
 
 Чтобы не нагружать ПК, после прохода блока персонажем - он удаляется. (максимум 10  блоков на карте)  
-Тот же механизм работает с объектами на карте  
+Тот же механизм работает с объектами на карте.  
 
 ![Level design](https://github.com/hebgehogg/NeonGame/blob/main/photos/Destroy.png)
 
