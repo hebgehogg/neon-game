@@ -9,7 +9,7 @@
 
 # Design doc
 
-> Concept: 
+### Concept: 
 
 Platforms: Windows.  
 Technologies: Unreal Engine 4.  
