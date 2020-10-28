@@ -98,7 +98,7 @@ Goal: побить свой же рекорд (или установить но
 ![Levels](https://github.com/hebgehogg/NeonGame/blob/main/photos/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B.png)
 
 
-### Balance:
+# Balance:
 
 | Свойство | Характеристика |
 | ------------- |:------------------:|
