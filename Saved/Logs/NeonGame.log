@@ -3678,3 +3678,297 @@ Purging the undo buffer...
 [2020.10.28-19.09.26:290][807]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2020.10.28-19.09.26:291][807]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
 [2020.10.28-19.09.26:291][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-19.09.56:235][ 75]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/RunnerFiels/Objects/Hole/Magma_mat.Magma_mat
+[2020.10.28-19.09.56:241][ 75]LogMaterial: Display: Missing cached shader map for material Magma_mat, compiling. 
+[2020.10.28-19.09.56:411][ 75]LogMaterial: Display: Missing cached shader map for material Magma_mat, compiling. 
+[2020.10.28-19.09.56:424][ 75]LogMaterial: Display: Missing cached shader map for material Magma_mat, compiling. 
+[2020.10.28-19.09.56:438][ 75]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.10.28-19.09.56:438][ 75]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.10.28-19.09.56:438][ 75]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.10.28-19.09.56:438][ 75]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.10.28-19.09.56:443][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.10.28-19.09.59:625][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.10.28-19.10.00:182][122]LogSlate: Window 'Magma_mat' being destroyed
+[2020.10.28-19.10.03:617][185]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.10.28-19.10.03:842][189]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.10.28-19.10.06:763][245]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.10.28-19.10.07:183][252]LogMaterial: Display: Missing cached shader map for material Magma_mat, compiling. 
+[2020.10.28-19.10.07:203][252]LogMaterial: Display: Missing cached shader map for material Magma_mat, compiling. 
+[2020.10.28-19.10.08:906][284]LogMaterialEditor: Applying material Magma_mat
+[2020.10.28-19.10.10:193][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.10.28-19.10.10:194][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.10.28-19.10.10:194][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.10.28-19.10.10:194][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.10.28-19.10.10:194][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.10.28-19.10.10:194][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.10.28-19.10.10:214][284]LogMaterial: Display: Missing cached shader map for material Magma_mat, compiling. 
+[2020.10.28-19.10.10:313][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.10.28-19.10.10:342][284]LogMaterial: Display: Missing cached shader map for material Magma_mat, compiling. 
+[2020.10.28-19.10.10:430][284]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2020.10.28-19.10.10:454][284]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.28-19.10.11:020][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.10.28-19.10.11:579][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.10.28-19.10.11:579][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.10.28-19.10.11:579][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.10.28-19.10.11:579][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.10.28-19.10.11:579][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.10.28-19.10.12:136][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.10.28-19.10.12:136][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.10.28-19.10.12:696][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.10.28-19.10.12:696][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.10.28-19.10.12:696][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.10.28-19.10.12:696][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.10.28-19.10.13:026][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.10.28-19.10.13:026][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.10.28-19.10.13:031][284]TextureStreamingBuild: Display: Compiling optional shaders took 2.585 seconds.
+[2020.10.28-19.10.13:063][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.10.28-19.10.21:166][420]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/RunnerFiels/Objects/BIgLet/BIgLet_Mat.BIgLet_Mat
+[2020.10.28-19.10.21:170][420]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.28-19.10.21:331][420]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.28-19.10.21:352][420]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.28-19.10.21:382][420]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.10.28-19.10.21:660][421]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.10.28-19.10.29:039][558]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.28-19.10.29:107][558]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.28-19.10.29:287][561]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.10.28-19.10.30:059][575]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.10.28-19.10.30:312][579]LogMaterialEditor: Applying material BIgLet_Mat
+[2020.10.28-19.10.31:563][579]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.10.28-19.10.31:564][579]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.10.28-19.10.31:564][579]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.10.28-19.10.31:564][579]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.10.28-19.10.31:564][579]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.10.28-19.10.31:564][579]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.10.28-19.10.31:582][579]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.28-19.10.31:703][579]LogMaterial: Display: Missing cached shader map for material BIgLet_Mat, compiling. 
+[2020.10.28-19.10.31:786][579]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.10.28-19.10.31:798][579]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.28-19.10.32:365][579]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.10.28-19.10.32:365][579]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.10.28-19.10.32:365][579]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.10.28-19.10.32:924][579]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.10.28-19.10.32:924][579]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.10.28-19.10.33:483][579]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.10.28-19.10.33:483][579]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.10.28-19.10.33:483][579]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.10.28-19.10.34:039][579]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.10.28-19.10.34:597][579]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.10.28-19.10.34:597][579]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.10.28-19.10.34:597][579]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.10.28-19.10.34:597][579]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.10.28-19.10.34:597][579]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.10.28-19.10.34:875][579]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.10.28-19.10.34:883][579]TextureStreamingBuild: Display: Compiling optional shaders took 3.091 seconds.
+[2020.10.28-19.10.34:925][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.10.28-19.10.47:413][816]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.10.28-19.10.47:490][817]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.10.28-19.10.47:490][817]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.10.28-19.10.47:491][817]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.10.28-19.10.47:491][817]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.28-19.10.49:153][849]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.10.28-19.10.53:875][937]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.10.28-19.10.56:890][997]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.10.28-19.10.56:891][997]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.10.28-19.10.56:891][997]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.10.28-19.10.56:891][997]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.28-19.12.04:880][677]LogMaterialEditor: Saving and Compiling material Magma_mat
+[2020.10.28-19.12.05:021][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Objects/Hole/Magma_mat" FILE="C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Objects/Hole/Magma_mat.uasset" SILENT=true
+[2020.10.28-19.12.05:083][677]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Saved/Magma_mat20A2A2934F972FF1032C469C5F300A89.tmp' to 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Objects/Hole/Magma_mat.uasset'
+[2020.10.28-19.12.05:104][677]AssetCheck: New page: Asset Save: Magma_mat
+[2020.10.28-19.12.05:105][677]LogContentValidation: Display: Validating Material /Game/RunnerFiels/Objects/Hole/Magma_mat.Magma_mat
+[2020.10.28-19.12.16:680][917]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RunnerFiels/Objects/LowLet/LowLet.LowLet
+[2020.10.28-19.12.26:175][112]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/RunnerFiels/Objects/LowLet/LowLet_Mat.LowLet_Mat
+[2020.10.28-19.12.26:181][112]LogMaterial: Display: Missing cached shader map for material LowLet_Mat, compiling. 
+[2020.10.28-19.12.26:265][112]LogMaterial: Display: Missing cached shader map for material LowLet_Mat, compiling. 
+[2020.10.28-19.12.26:274][112]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.10.28-19.12.26:274][112]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.10.28-19.12.26:274][112]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.10.28-19.12.26:274][112]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.10.28-19.12.26:275][112]LogMaterial: Display: Missing cached shader map for material LowLet_Mat, compiling. 
+[2020.10.28-19.12.26:291][112]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.10.28-19.12.31:595][209]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.10.28-19.12.33:670][252]LogMaterial: Display: Missing cached shader map for material LowLet_Mat, compiling. 
+[2020.10.28-19.12.33:706][252]LogMaterial: Display: Missing cached shader map for material LowLet_Mat, compiling. 
+[2020.10.28-19.12.33:825][253]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.10.28-19.12.36:063][291]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.10.28-19.12.36:469][300]LogMaterialEditor: Applying material LowLet_Mat
+[2020.10.28-19.12.37:656][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.10.28-19.12.37:657][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.10.28-19.12.37:657][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.10.28-19.12.37:657][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.10.28-19.12.37:657][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.10.28-19.12.37:657][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.10.28-19.12.37:678][300]LogMaterial: Display: Missing cached shader map for material LowLet_Mat, compiling. 
+[2020.10.28-19.12.37:805][300]LogMaterial: Display: Missing cached shader map for material LowLet_Mat, compiling. 
+[2020.10.28-19.12.37:916][300]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2020.10.28-19.12.37:937][300]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.28-19.12.38:505][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.10.28-19.12.38:505][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.10.28-19.12.38:505][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.10.28-19.12.38:505][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.10.28-19.12.39:064][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.10.28-19.12.39:624][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.10.28-19.12.39:624][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.10.28-19.12.39:624][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.10.28-19.12.40:183][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.10.28-19.12.40:183][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.10.28-19.12.40:719][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.10.28-19.12.40:719][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.10.28-19.12.40:719][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.10.28-19.12.40:719][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.10.28-19.12.40:719][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.10.28-19.12.40:724][300]TextureStreamingBuild: Display: Compiling optional shaders took 2.796 seconds.
+[2020.10.28-19.12.40:775][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.10.28-19.12.42:007][323]LogMaterialEditor: Saving and Compiling material LowLet_Mat
+[2020.10.28-19.12.43:797][323]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.10.28-19.12.43:797][323]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.10.28-19.12.44:846][323]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.10.28-19.12.44:864][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Objects/LowLet/LowLet_Mat" FILE="C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Objects/LowLet/LowLet_Mat.uasset" SILENT=true
+[2020.10.28-19.12.44:906][323]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Saved/LowLet_Mat891667C64FBD9244ADC8C490D6DDF3ED.tmp' to 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Objects/LowLet/LowLet_Mat.uasset'
+[2020.10.28-19.12.44:984][323]AssetCheck: New page: Asset Save: LowLet_Mat
+[2020.10.28-19.12.44:984][323]LogContentValidation: Display: Validating Material /Game/RunnerFiels/Objects/LowLet/LowLet_Mat.LowLet_Mat
+[2020.10.28-19.12.44:984][323]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.10.28-19.12.44:984][323]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.10.28-19.12.44:984][323]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.10.28-19.12.44:985][323]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.28-19.12.48:249][399]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-19.12.48:249][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-19.12.53:059][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Level/Menulevel" FILE="C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-19.12.53:105][493]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2020.10.28-19.12.53:150][493]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Saved/Menulevel265942EC4D5F8F47D60DEA88DC8C70D2.tmp' to 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap'
+[2020.10.28-19.12.53:177][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Level/Menulevel_BuiltData" FILE="C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel_BuiltData.uasset" SILENT=true
+[2020.10.28-19.12.53:207][493]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Saved/Menulevel_BuiltDataDE02CAB2488257E0E9F5948C77CC9875.tmp' to 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel_BuiltData.uasset'
+[2020.10.28-19.12.53:222][493]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-19.12.53:222][493]LogContentValidation: Display: Validating World /Game/RunnerFiels/Level/Menulevel.Menulevel
+[2020.10.28-19.12.53:223][493]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RunnerFiels/Level/Menulevel_BuiltData.Menulevel_BuiltData
+[2020.10.28-19.12.55:235][535]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.28-19.12.55:271][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-19.12.55:272][535]PIE: New page: PIE session: Menulevel (29 окт. 2020 г., 05:12:55)
+[2020.10.28-19.12.55:272][535]LogPlayLevel: Creating play world package: /Game/RunnerFiels/Level/UEDPIE_0_Menulevel
+[2020.10.28-19.12.55:279][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006468s)
+[2020.10.28-19.12.55:284][535]LogAIModule: Creating AISystem for world Menulevel
+[2020.10.28-19.12.55:285][535]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D63FC0FA00), frame # 54535
+[2020.10.28-19.12.55:286][535]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D64F1E9E40), frame # 54535
+[2020.10.28-19.12.55:286][535]LogPlayLevel: PIE: World Init took: (0.006310s)
+[2020.10.28-19.12.55:286][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerFiels/Level/Menulevel.Menulevel to /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel (0.013383s)
+[2020.10.28-19.12.55:333][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.10.28-19.12.55:338][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-19.12.55:338][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-19.12.55:338][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-19.12.55:338][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-19.12.55:338][535]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-19.12.55:338][535]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-19.12.55:338][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-19.12.55:338][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-19.12.55:339][535]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-19.12.55:339][535]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-19.12.55:341][535]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-19.12.55:341][535]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-19.12.55:390][535]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.10.28-19.12.55:390][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-19.12.55:390][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-19.12.55:390][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-19.12.55:391][535]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-19.12.55:392][535]LogInit: FAudioDevice initialized.
+[2020.10.28-19.12.55:465][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-19.12.55:465][535]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.28-19.12.55:468][535]LogWorld: Bringing World /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel up for play (max tick rate 60) at 2020.10.29-00.12.55
+[2020.10.28-19.12.55:469][535]LogWorld: Bringing up level for play took: 0.001157
+[2020.10.28-19.12.55:469][535]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2020.10.28-19.12.55:478][535]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.55:482][535]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_1.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.55:489][535]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_2.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.55:495][535]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_3.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.55:504][535]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_4.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.55:519][535]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_5.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.55:524][535]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_6.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.55:528][535]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_7.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.55:539][535]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_8.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.55:543][535]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_9.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.55:552][535]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel.Menulevel:PersistentLevel.MasterRunBlock_C_10.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.55:560][535]PIE: Server logged in
+[2020.10.28-19.12.55:562][535]PIE: Play in editor total start time 0,292 seconds.
+[2020.10.28-19.12.55:650][536]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.093653 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2020.10.28-19.12.57:751][572]LogNet: Browse: /Game/RunnerFiels/Level/FirstLevel
+[2020.10.28-19.12.57:752][572]LogLoad: LoadMap: /Game/RunnerFiels/Level/FirstLevel
+[2020.10.28-19.12.57:752][572]LogWorld: BeginTearingDown for /Game/RunnerFiels/Level/UEDPIE_0_Menulevel
+[2020.10.28-19.12.57:758][572]LogWorld: UWorld::CleanupWorld for Menulevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-19.12.57:764][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-19.12.57:828][572]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D64F1E9E40), frame # 54572
+[2020.10.28-19.12.57:828][572]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D63FC0FA00), frame # 54572
+[2020.10.28-19.12.57:831][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.10.28-19.12.57:852][572]LogAIModule: Creating AISystem for world FirstLevel
+[2020.10.28-19.12.57:852][572]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D64A393200), frame # 54572
+[2020.10.28-19.12.57:852][572]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D65999B600), frame # 54572
+[2020.10.28-19.12.57:852][572]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.28-19.12.57:853][572]LogWorld: Bringing World /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 60) at 2020.10.29-00.12.57
+[2020.10.28-19.12.57:853][572]LogWorld: Bringing up level for play took: 0.000700
+[2020.10.28-19.12.58:191][572]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_0.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.58:196][572]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_1.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.58:206][572]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_2.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.58:210][572]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_3.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.58:215][572]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_4.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.58:218][572]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_5.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.58:222][572]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_6.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.58:226][572]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_7.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.58:230][572]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_8.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.58:239][572]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_9.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.58:244][572]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_10.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.58:247][572]LogLoad: Took 0.496060 seconds to LoadMap(/Game/RunnerFiels/Level/FirstLevel)
+[2020.10.28-19.12.58:517][578]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_11.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.12.59:315][593]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_12.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.00:159][607]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_13.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.00:983][622]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_14.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.01:780][638]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_15.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.02:654][655]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_16.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.03:470][672]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_17.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.04:323][688]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_18.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.05:143][703]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_19.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.06:006][720]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_20.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.06:778][736]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_21.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.07:630][754]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_22.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.08:503][772]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_23.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.09:290][789]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_24.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.10:113][804]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_25.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.10:976][820]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_26.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.11:827][837]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_27.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.12:681][853]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_28.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.13:510][868]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_29.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.14:292][883]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_30.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.15:116][897]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_31.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.15:950][912]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_32.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.16:807][927]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_33.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.19:160][972]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_34.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.20:000][986]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_35.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.20:790][  1]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_36.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.21:627][ 18]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_37.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.22:442][ 34]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_38.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.23:295][ 51]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_39.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.24:145][ 67]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_40.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.26:464][111]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_41.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.27:291][126]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_42.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.28:110][140]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_43.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.28:970][156]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_44.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.29:792][172]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_45.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.30:089][178]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.10.28-19.13.30:614][188]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_46.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.31:492][205]LogPhysics: Warning: Scale for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.MasterRunBlock_C_47.Free has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=5.000 Z=0.000
+[2020.10.28-19.13.31:944][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-19.13.31:946][212]LogWorld: BeginTearingDown for /Game/RunnerFiels/Level/UEDPIE_0_FirstLevel
+[2020.10.28-19.13.31:947][212]LogSlate: Window 'NeonGame Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.28-19.13.31:952][212]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-19.13.31:959][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-19.13.31:983][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-19.13.31:990][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-19.13.32:075][212]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D65999B600), frame # 55212
+[2020.10.28-19.13.32:075][212]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D64A393200), frame # 55212
+[2020.10.28-19.13.32:078][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.10.28-19.13.32:117][213]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.10.28-19.13.37:020][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Level/Menulevel" FILE="C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-19.13.37:056][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.10.28-19.13.37:092][319]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Saved/Menulevel506433044D6FC057CE18C7B222E6491A.tmp' to 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel.umap'
+[2020.10.28-19.13.37:118][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiels/Level/Menulevel_BuiltData" FILE="C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel_BuiltData.uasset" SILENT=true
+[2020.10.28-19.13.37:142][319]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Saved/Menulevel_BuiltDataA069DC814DD1AD434E1C57B4C8693E0D.tmp' to 'C:/Users/hebgehog/Documents/GitHub/NeonGame/Content/RunnerFiels/Level/Menulevel_BuiltData.uasset'
+[2020.10.28-19.13.37:156][319]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-19.13.37:156][319]LogContentValidation: Display: Validating World /Game/RunnerFiels/Level/Menulevel.Menulevel
+[2020.10.28-19.13.37:157][319]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RunnerFiels/Level/Menulevel_BuiltData.Menulevel_BuiltData
